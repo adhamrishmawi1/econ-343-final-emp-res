@@ -1,0 +1,679 @@
+"common_id","year","HSLVL","HSver","HSCODE","NUMofSUB","NUMofTL","NUMofAV","DUTYFREETL","Indicator.Name","Indicator.Code","X2019","X2020","X2021"
+1,2021,2,"HS17","06",16,31,31,18.125,"High-technology exports (current US$)","TX.VAL.TECH.CD",12563738000,12960522000,16089827000
+2,2021,4,"HS17","0601",2,9,9,45,"Export unit value index (2015 = 100)","TX.UVI.MRCH.XD.WD",101.3196040851,95.2514245334,99.9000299986
+3,2021,6,"HS17","060110",1,4,4,50,"Travel services (% of commercial service imports)","TM.VAL.TRVL.ZS.WT",24.8657336387175,7.30703648050417,9.89408919771037
+4,2021,6,"HS17","060120",1,5,5,40,"Merchandise imports (current US$)","TM.VAL.MRCH.CD.WT",7.6591e+10,6.926e+10,9.2155e+10
+5,2021,4,"HS17","0602",5,9,9,20,"Insurance and financial services (% of commercial service imports)","TM.VAL.INSF.ZS.WT",2.11867895929465,2.7970951684697,1.77385288805902
+6,2021,6,"HS17","060210",1,2,2,50,"Agricultural raw materials imports (% of merchandise imports)","TM.VAL.AGRI.ZS.UN",0.874132405651561,0.966968336558443,0.934066903488836
+7,2021,6,"HS17","060220",1,1,1,0,"Urban population","SP.URB.TOTL",8375041,8531985,8677993
+8,2021,6,"HS17","060230",1,1,1,0,"Rural population","SP.RUR.TOTL",678959,683115,686007
+9,2021,6,"HS17","060240",1,1,1,0,"Population, male","SP.POP.TOTL.MA.IN",4509772,4592300,4668451
+10,2021,6,"HS17","060290",1,4,4,50,"Age dependency ratio, old (% of working-age population)","SP.POP.DPND.OL",19.4309553982976,19.690264205364,19.9168056833998
+11,2021,4,"HS17","0603",7,9,9,0,"Population ages 80 and above, female (% of female population)","SP.POP.80UP.FE.5Y",3.60570043164432,3.60530246771316,3.58630596604411
+12,2021,6,"HS17","060311",1,1,1,0,"Population ages 70-74, female (% of female population)","SP.POP.7074.FE.5Y",3.2593850552717,3.41406536751086,3.49808992210682
+13,2021,6,"HS17","060312",1,1,1,0,"Population ages 65 and above, male","SP.POP.65UP.MA.IN",471672,485961,499206
+14,2021,6,"HS17","060313",1,1,1,0,"Population ages 65-69, female (% of female population)","SP.POP.6569.FE.5Y",4.02692890223095,4.00028452820955,3.95230059689794
+15,2021,6,"HS17","060314",1,1,1,0,"Population ages 55-59, female (% of female population)","SP.POP.5559.FE.5Y",4.46231135307769,4.3795037258969,4.32047990244923
+16,2021,6,"HS17","060315",1,1,1,0,"Population ages 45-49, female (% of female population)","SP.POP.4549.FE.5Y",5.66149951872995,5.75129389203292,5.80696617697837
+17,2021,6,"HS17","060319",1,2,2,0,"Population ages 35-39, female (% of female population)","SP.POP.3539.FE.5Y",6.48155081330992,6.43853194825001,6.39717565255113
+18,2021,6,"HS17","060390",1,2,2,0,"Population ages 25-29, female (% of female population)","SP.POP.2529.FE.5Y",6.64523007971943,6.57422914194828,6.55051740939258
+19,2021,4,"HS17","0604",2,4,4,50,"Population ages 15-64, total","SP.POP.1564.TO",5439187,5525096,5609037
+20,2021,6,"HS17","060420",1,2,2,50,"Population ages 15-64, female","SP.POP.1564.FE.IN",2712414,2752784,2792217
+21,2021,6,"HS17","060490",1,2,2,50,"Population ages 10-14, female (% of female population)","SP.POP.1014.FE.5Y",8.19514299744267,8.24184897811693,8.33551987527412
+22,2021,2,"HS17","07",67,124,68,22.1748400852878,"Population ages 0-14, total","SP.POP.0014.TO",2557927,2602098,2637822
+23,2021,4,"HS17","0701",2,8,2,0,"Population ages 0-14, female","SP.POP.0014.FE.IN",1246600,1268071,1285397
+24,2021,6,"HS17","070110",1,2,2,0,"Mortality rate, infant, female (per 1,000 live births)","SP.DYN.IMRT.FE.IN",2.6,2.5,2.5
+25,2021,6,"HS17","070190",1,6,0,0,"Refugee population by country or territory of asylum","SM.POP.REFG",16107,1843,1191
+26,2021,4,"HS17","0702",1,4,0,0,"Unemployment, male (% of male labor force) (national estimate)","SL.UEM.TOTL.MA.NE.ZS",3.69000005722046,4.51999998092651,5.03999996185303
+27,2021,6,"HS17","070200",1,4,0,0,"Share of youth not in education, employment or training, male (% of male youth population)","SL.UEM.NEET.MA.ZS",13.75,15.8199996948242,16.3400001525879
+28,2021,4,"HS17","0703",3,7,1,0,"Unemployment with intermediate education, female (% of female labor force with intermediate education)","SL.UEM.INTM.FE.ZS",4.57999992370605,4.78000020980835,5.71999979019165
+29,2021,6,"HS17","070310",1,4,0,0,"Unemployment with advanced education (% of total labor force with advanced education)","SL.UEM.ADVN.ZS",2.5699999332428,2.86999988555908,3.46000003814697
+30,2021,6,"HS17","070320",1,2,0,0,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)","SL.UEM.1524.NE.ZS",6.67999982833862,7.92000007629395,7.76000022888184
+31,2021,6,"HS17","070390",1,1,1,0,"Immunization, measles (% of children ages 12-23 months)","SH.IMM.MEAS",99,99,99
+32,2021,4,"HS17","0704",3,7,0,0,"Mortality rate, under-5 (per 1,000 live births)","SH.DYN.MORT",3.5,3.4,3.4
+33,2021,6,"HS17","070410",1,1,0,0,"Probability of dying among adolescents ages 15-19 years (per 1,000)","SH.DYN.1519",1.1,1.1,1.1
+34,2021,6,"HS17","070420",1,1,0,0,"Number of deaths ages 5-9 years","SH.DTH.0509",65,64,63
+35,2021,6,"HS17","070490",1,5,0,0,"Primary school starting age (years)","SE.PRM.AGES",6,6,6
+36,2021,4,"HS17","0705",4,6,2,25,"Preprimary education, duration (years)","SE.PRE.DURS",6,6,6
+37,2021,6,"HS17","070511",1,2,0,0,"General government final consumption expenditure (constant 2015 US$)","NE.CON.GOVT.KD",76897653788.4311,79035708674.5852,82343534839.844
+38,2021,6,"HS17","070519",1,2,0,0,"Military expenditure (% of general government expenditure)","MS.MIL.XPND.ZS",13.1263343359149,11.6051864508996,12.1376623978854
+39,2021,6,"HS17","070521",1,1,1,100,"Fixed broadband subscriptions","IT.NET.BBND",2480952,2602079,2656753
+40,2021,6,"HS17","070529",1,1,1,0,"Mobile cellular subscriptions","IT.CEL.SETS",11700000,12270000,12500000
+41,2021,4,"HS17","0706",2,10,0,0,"Railways, passengers carried (million passenger-km)","IS.RRS.PASG.KM",3579.9,1252.9,1956
+42,2021,6,"HS17","070610",1,4,0,0,"Foreign direct investment, net inflows (BoP, current US$)","BX.KLT.DINV.CD.WD",17362500000,23109200000,21486300000
+43,2021,6,"HS17","070690",1,6,0,0,"Charges for the use of intellectual property, receipts (BoP, current US$)","BX.GSR.ROYL.CD",1579200000,1655600000,2198200000
+44,2021,4,"HS17","0707",1,2,0,0,"Exports of goods and services (BoP, current US$)","BX.GSR.GNFS.CD",117779300000,114421600000,143883600000
+45,2021,6,"HS17","070700",1,2,0,0,"ICT service exports (BoP, current US$)","BX.GSR.CCIS.CD",27239400000,32984800000,41216700000
+46,2021,4,"HS17","0708",3,4,0,0,"Net secondary income (BoP, current US$)","BN.TRF.CURR.CD",8209800000,7852200000,9317600000
+47,2021,6,"HS17","070810",1,1,0,0,"Net errors and omissions (BoP, current US$)","BN.KAC.EOMS.CD",-10222600000,1302000000.00001,-5624600000.00002
+48,2021,6,"HS17","070820",1,1,0,0,"Net financial account (BoP, current US$)","BN.FIN.TOTL.CD",4914200000,24223500000,15936200000
+49,2021,6,"HS17","070890",1,2,0,0,"Secondary income, other sectors, payments (BoP, current US$)","BM.TRF.PRVT.CD",3696300000,4472100000,4895800000
+50,2021,4,"HS17","0709",11,20,9,0,"Transport services (% of service imports, BoP)","BM.GSR.TRAN.ZS",23.9617656483334,22.729911170002,25.9422083871868
+51,2021,6,"HS17","070920",1,2,2,0,"Goods imports (BoP, current US$)","BM.GSR.MRCH.CD",75703500000,7.0997e+10,91618400000
+52,2021,6,"HS17","070930",1,1,0,0,"Communications, computer, etc. (% of service imports, BoP)","BM.GSR.CMCP.ZS",49.2911167405276,67.2834193344355,62.4927942523923
+53,2021,6,"HS17","070940",1,1,0,0,"Travel services (% of commercial service exports)","TX.VAL.TRVL.ZS.WT",13.336915655565,4.53890895487967,3.0068558375001
+54,2021,6,"HS17","070951",1,2,1,0,"Commercial service exports (current US$)","TX.VAL.SERV.CD.WT",57132400000,55068300000,73718200000
+55,2021,6,"HS17","070959",1,3,2,0,"Ores and metals exports (% of merchandise exports)","TX.VAL.MMTL.ZS.UN",1.10111966349058,1.32536585966938,1.61863415154063
+56,2021,6,"HS17","070960",1,2,0,0,"Transport services (% of commercial service imports)","TM.VAL.TRAN.ZS.WT",24.174349559155,22.9972579880842,26.1731304906792
+57,2021,6,"HS17","070970",1,1,0,0,"Import unit value index (2015 = 100)","TM.UVI.MRCH.XD.WD",103.734771353,99.7902935917,110.9247054149
+58,2021,6,"HS17","070991",1,1,0,0,"Urban population growth (annual %)","SP.URB.GROW",1.99875843898331,1.85660692988223,1.69682382180019
+59,2021,6,"HS17","070992",1,1,0,0,"Population, female (% of total population)","SP.POP.TOTL.FE.ZS",50.1902957032937,50.1654983523245,50.1446900520547
+60,2021,6,"HS17","070993",1,2,1,0,"Age dependency ratio (% of working-age population)","SP.POP.DPND",66.4587005374149,66.7862422661977,66.9448784167407
+61,2021,6,"HS17","070999",1,4,3,0,"Population ages 75-79, male (% of male population)","SP.POP.7579.MA.5Y",1.59683317862291,1.63306335197876,1.75261068360967
+62,2021,4,"HS17","0710",8,15,15,3.57142857142857,"Population ages 65 and above (% of total population)","SP.POP.65UP.TO.ZS",11.673140065959,11.8056892902926,11.93016810338
+63,2021,6,"HS17","071010",1,1,1,0,"Population ages 65 and above, female (% of female population)","SP.POP.65UP.FE.ZS",12.8781893182237,13.0212286497145,13.1600210356165
+64,2021,6,"HS17","071021",1,1,1,0,"Population ages 60-64, male (% of male population)","SP.POP.6064.MA.5Y",3.88266807849649,3.88922317043104,3.88162271655332
+65,2021,6,"HS17","071022",1,1,1,0,"Population ages 50-54, male (% of male population)","SP.POP.5054.MA.5Y",4.61194893156512,4.66242554279634,4.77049242396925
+66,2021,6,"HS17","071029",1,2,2,0,"Population ages 40-44, male (% of male population)","SP.POP.4044.MA.5Y",6.30275120230993,6.26080941247206,6.19473932828986
+67,2021,6,"HS17","071030",1,1,1,0,"Population ages 30-34, male (% of male population)","SP.POP.3034.MA.5Y",6.86222764356583,6.78289200531959,6.72088763242729
+68,2021,6,"HS17","071040",1,1,1,0,"Population ages 20-24, male (% of male population)","SP.POP.2024.MA.5Y",7.34427112730258,7.40042050734009,7.43269556688615
+69,2021,6,"HS17","071080",1,7,7,28.5714285714286,"Population ages 15-64, male (% of male population)","SP.POP.1564.MA.ZS",60.4636648179159,60.3687069399292,60.3373627948738
+70,2021,6,"HS17","071090",1,1,1,0,"Population ages 15-19, male (% of male population)","SP.POP.1519.MA.5Y",8.0245149944724,8.01589825702091,8.01089302327258
+71,2021,4,"HS17","0711",5,11,11,2.85714285714286,"Population ages 05-09, male (% of male population)","SP.POP.0509.MA.5Y",9.74772482379337,9.81571412466558,9.89770014640021
+72,2021,6,"HS17","071120",1,1,1,0,"Population ages 0-14, male (% of male population)","SP.POP.0014.MA.ZS",29.0774516160631,29.0492162230779,28.9694605909376
+73,2021,6,"HS17","071140",1,1,1,0,"Population ages 00-04, male (% of male population)","SP.POP.0004.MA.5Y",10.678203088922,10.5436853783879,10.287725099343
+74,2021,6,"HS17","071151",1,1,1,0,"Net migration","SM.POP.NETM",16132,16569,16856
+75,2021,6,"HS17","071159",1,1,1,0,"Unemployment, total (% of total labor force) (modeled ILO estimate)","SL.UEM.TOTL.ZS",3.79999995231628,4.32999992370605,4.31899976730347
+76,2021,6,"HS17","071190",1,7,7,14.2857142857143,"Unemployment, female (% of female labor force) (modeled ILO estimate)","SL.UEM.TOTL.FE.ZS",3.92600011825562,4.12099981307983,4.3769998550415
+77,2021,4,"HS17","0712",6,12,12,23.8095238095238,"Share of youth not in education, employment or training, female (% of female youth population)","SL.UEM.NEET.FE.ZS",14.8100004196167,16.2999992370605,17.1800003051758
+78,2021,6,"HS17","071220",1,1,1,0,"Official exchange rate (LCU per US$, period average)","PA.NUS.FCRF",3.56452734661093,3.44240585198792,3.23019832251082
+79,2021,6,"HS17","071231",1,1,1,0,"Net secondary income (Net current transfers from abroad) (current LCU)","NY.TRF.NCTR.CN",29242100000,26955100000,30071400000
+80,2021,6,"HS17","071232",1,1,1,0,"Taxes less subsidies on products (current US$)","NY.TAX.NIND.CD",36655168075.573,36067345728.0759,44545479142.0219
+81,2021,6,"HS17","071233",1,1,1,0,"Gross savings (% of GDP)","NY.GNS.ICTR.ZS",27.0628381982573,29.297996368207,29.1394282011653
+82,2021,6,"HS17","071239",1,1,1,100,"GNI per capita, PPP (constant 2017 international $)","NY.GNP.PCAP.PP.KD",40801.1711048968,39521.1966793325,42212.584847878
+83,2021,6,"HS17","071290",1,7,7,42.8571428571429,"GNI per capita (constant 2015 US$)","NY.GNP.PCAP.KD",39884.7547336084,38633.5292259464,41264.4673605258
+84,2021,4,"HS17","0713",12,12,11,91.6666666666667,"GNI, PPP (current international $)","NY.GNP.MKTP.PP.CD",364395759373.142,361374573100.311,410007298041.535
+85,2021,6,"HS17","071310",1,1,1,100,"GNI: linked series (current LCU)","NY.GNP.MKTP.CN.AD",1410432777000,1387111364000,1567626823419.58
+86,2021,6,"HS17","071320",1,1,0,0,"Gross domestic income (constant LCU)","NY.GDY.TOTL.KN",1415091620991,1406153481831.97,1540080139395.73
+87,2021,6,"HS17","071331",1,1,1,100,"GDP per capita (constant LCU)","NY.GDP.PCAP.KN",153885.051800309,148386.681316535,158602.979495942
+88,2021,6,"HS17","071332",1,1,1,100,"GDP per capita (current US$)","NY.GDP.PCAP.CD",44452.2325623093,44846.7915954816,52170.7118623335
+89,2021,6,"HS17","071333",1,1,1,100,"GDP (constant LCU)","NY.GDP.MKTP.KN",1393275259000,1367398107000,1485158300000
+90,2021,6,"HS17","071334",1,1,1,100,"GDP (current LCU)","NY.GDP.MKTP.CN",1434617152000,1422635043000,1578037629000
+91,2021,6,"HS17","071335",1,1,1,100,"Discrepancy in expenditure estimate of GDP (constant LCU)","NY.GDP.DISC.KN",2103000,124000,-955000
+92,2021,6,"HS17","071339",1,1,1,100,"Inflation, GDP deflator: linked series (annual %)","NY.GDP.DEFL.KD.ZG.AD",1.88495106654629,0.972869137730243,2.60406689647384
+93,2021,6,"HS17","071340",1,1,1,100,"Services, value added (% of GDP)","NV.SRV.TOTL.ZS",70.9196090107809,71.8157464928973,72.4485374106374
+94,2021,6,"HS17","071350",1,1,1,100,"Services, value added (current LCU)","NV.SRV.TOTL.CN",1017424875000,1021675976000,1143265182000
+95,2021,6,"HS17","071360",1,1,1,100,"Industry (including construction), value added (constant 2015 US$)","NV.IND.TOTL.KD",68225602246.902,67863209296.3424,71966441833.5406
+96,2021,6,"HS17","071390",1,1,1,100,"Manufacturing, value added (constant LCU)","NV.IND.MANF.KN",169949357000,174686792000,183084550000
+97,2021,4,"HS17","0714",6,6,5,16.6666666666667,"Manufacturing, value added (current US$)","NV.IND.MANF.CD",45858728270.2203,46152388135.2493,49657759364.8548
+98,2021,6,"HS17","071410",1,1,1,100,"Agriculture, forestry, and fishing, value added (% of GDP)","NV.AGR.TOTL.ZS",1.33855300511561,1.31645049038765,1.26100864987675
+99,2021,6,"HS17","071420",1,1,0,0,"Agriculture, forestry, and fishing, value added (current LCU)","NV.AGR.TOTL.CN",19203111000,18728286000,19899191000
+100,2021,6,"HS17","071430",1,1,1,0,"External balance on goods and services (% of GDP)","NE.RSB.GNFS.ZS",2.25053819794286,4.46799390418221,3.95506139099805
+101,2021,6,"HS17","071440",1,1,1,0,"Imports of goods and services (% of GDP)","NE.IMP.GNFS.ZS",27.0479404528965,23.2076915737833,25.5039319471133
+102,2021,6,"HS17","071450",1,1,1,0,"Imports of goods and services (current LCU)","NE.IMP.GNFS.CN",388034393000,330160753000,402461643000
+103,2021,6,"HS17","071490",1,1,1,0,"Gross capital formation (annual % growth)","NE.GDI.TOTL.KD.ZG",4.89979993763379,1.20117006113438,12.5946996887608
+104,2021,2,"HS17","08",68,115,58,8.82352941176471,"Gross fixed capital formation (constant LCU)","NE.GDI.FTOT.KN",316992895000,304731071000,340376744000
+105,2021,4,"HS17","0801",7,7,7,42.8571428571429,"Gross fixed capital formation (current US$)","NE.GDI.FTOT.CD",91185641010.4511,91397323420.8597,112267347324.395
+106,2021,6,"HS17","080111",1,1,1,100,"Exports of goods and services (constant LCU)","NE.EXP.GNFS.KN",432862311000,421020194000,482344017000
+107,2021,6,"HS17","080112",1,1,1,100,"Exports of goods and services (current US$)","NE.EXP.GNFS.CD",117917737508.63,114374660318.635,143915002605.368
+108,2021,6,"HS17","080119",1,1,1,100,"Gross national expenditure (current LCU)","NE.DAB.TOTL.CN",1402330570000,1359072201000,1515625714000
+109,2021,6,"HS17","080121",1,1,1,0,"Final consumption expenditure (constant LCU)","NE.CON.TOTL.KN",1040527706000,991032300000,1079087007000
+110,2021,6,"HS17","080122",1,1,1,0,"Final consumption expenditure (current US$)","NE.CON.TOTL.CD",299511550953.611,296391067140.093,348128044078.084
+111,2021,6,"HS17","080131",1,1,1,0,"Households and NPISHs Final consumption expenditure per capita growth (annual %)","NE.CON.PRVT.PC.KD.ZG",2.08193419266172,-9.54248230872361,9.37905448510843
+112,2021,6,"HS17","080132",1,1,1,0,"Households and NPISHs Final consumption expenditure (constant 2015 US$)","NE.CON.PRVT.KD",190824487543.416,175686476480.426,195269246430.256
+113,2021,4,"HS17","0802",15,20,17,10,"General government final consumption expenditure (% of GDP)","NE.CON.GOVT.ZS",22.0629198918151,23.297301906825,22.099602797241
+114,2021,6,"HS17","080211",1,2,1,50,"General government final consumption expenditure (current LCU)","NE.CON.GOVT.CN",316518433000,331435581000,348740048000
+115,2021,6,"HS17","080212",1,2,1,50,"Military expenditure (% of GDP)","MS.MIL.XPND.GD.ZS",5.11044177273089,5.35526311282723,5.17162426266508
+116,2021,6,"HS17","080221",1,1,1,0,"Interest rate spread (lending rate minus deposit rate, %)","FR.INR.LNDP",2.88387870291869,2.75940257807573,2.65855414668719
+117,2021,6,"HS17","080222",1,2,2,50,"Inflation, consumer prices (annual %)","FP.CPI.TOTL.ZG",0.844128708733833,-0.588430300016595,1.49228845352231
+118,2021,6,"HS17","080231",1,1,1,0,"Total reserves minus gold (current US$)","FI.RES.XGLD.CD",126007828810.341,173292120893.254,212933655186.265
+119,2021,6,"HS17","080232",1,1,1,0,"Bank liquid reserves to bank assets ratio (%)","FD.RES.LIQU.AS.ZS",23.7719800301168,34.7149198354549,39.6184287386064
+120,2021,6,"HS17","080241",1,1,1,0,"Commercial bank branches (per 100,000 adults)","FB.CBK.BRCH.P5",16.7553957275272,16.1487270698225,15.2024743541349
+121,2021,6,"HS17","080242",1,1,1,0,"Terrestrial and marine protected areas (% of total territorial area)","ER.PTD.TOTL.ZS",8.58270513686895,10.5390870493276,10.5390870488769
+122,2021,6,"HS17","080251",1,1,1,0,"Population in largest city","EN.URB.LCTY",4096963,4181480,4263745
+123,2021,6,"HS17","080252",1,1,1,0,"High-technology exports (% of manufactured exports)","TX.VAL.TECH.MF.ZS",23.090928602753,28.1969360041486,29.591649966853
+124,2021,6,"HS17","080261",1,1,1,0,"Merchandise exports (current US$)","TX.VAL.MRCH.CD.WT",5.8507e+10,5.0152e+10,6.0159e+10
+125,2021,6,"HS17","080262",1,1,1,0,"Insurance and financial services (% of commercial service exports)","TX.VAL.INSF.ZS.WT",0.0647618514188096,0.0706395512481773,0.0617215287405281
+126,2021,6,"HS17","080270",1,1,1,0,"Agricultural raw materials exports (% of merchandise exports)","TX.VAL.AGRI.ZS.UN",0.640787877733022,0.687383225404792,0.727380210823406
+127,2021,6,"HS17","080280",1,1,1,0,"Computer, communications and other services (% of commercial service imports)","TM.VAL.OTHR.ZS.WT",48.8412378428329,66.8986103629419,62.1589274235514
+128,2021,6,"HS17","080290",1,3,2,0,"Manufactures imports (% of merchandise imports)","TM.VAL.MANF.ZS.UN",76.1617086579025,77.7766772658479,76.2677465528394
+129,2021,4,"HS17","0803",2,4,2,0,"Food imports (% of merchandise imports)","TM.VAL.FOOD.ZS.UN",8.73662822514067,10.053818979815,9.42348713145627
+130,2021,6,"HS17","080310",1,2,1,0,"Merchandise trade (% of GDP)","TG.VAL.TOTL.GD.ZS",33.5671795643249,28.8945903322291,31.1782443113664
+131,2021,6,"HS17","080390",1,2,1,0,"Urban population (% of total population)","SP.URB.TOTL.IN.ZS",92.501,92.587,92.674
+132,2021,4,"HS17","0804",5,12,5,0,"Rural population growth (annual %)","SP.RUR.TOTL.ZG",0.808165569475424,0.6102477394804,0.422461154113115
+133,2021,6,"HS17","080410",1,2,1,0,"Population, male (% of total population)","SP.POP.TOTL.MA.ZS",49.809715913916,49.8345130664737,49.8553099479453
+134,2021,6,"HS17","080420",1,3,1,0,"Population, total","SP.POP.TOTL",9054000,9215100,9364000
+135,2021,6,"HS17","080430",1,2,1,0,"Age dependency ratio, young (% of working-age population)","SP.POP.DPND.YG",47.0277451391173,47.0959780608337,47.0280727333409
+136,2021,6,"HS17","080440",1,2,1,0,"Population ages 80 and above, male (% of male population)","SP.POP.80UP.MA.5Y",2.42424631143909,2.42751793434476,2.41366534209331
+137,2021,6,"HS17","080450",1,3,1,0,"Population ages 70-74, male (% of male population)","SP.POP.7074.MA.5Y",2.82899677673653,2.94758414500354,3.00429194221879
+138,2021,4,"HS17","0805",7,16,9,0,"Population ages 65 and above, male (% of male population)","SP.POP.65UP.MA.ZS",10.4588835660209,10.5820768369929,10.6931766141886
+139,2021,6,"HS17","080510",1,2,1,0,"Population ages 65-69, male (% of male population)","SP.POP.6569.MA.5Y",3.6088072992224,3.57391140566585,3.52260864626679
+140,2021,6,"HS17","080521",1,2,1,0,"Population ages 55-59, male (% of male population)","SP.POP.5559.MA.5Y",4.23351867487021,4.1790208264784,4.14504619179149
+141,2021,6,"HS17","080522",1,2,1,0,"Population ages 45-49, male (% of male population)","SP.POP.4549.MA.5Y",5.61945199856329,5.71175770785005,5.77675725330122
+142,2021,6,"HS17","080529",1,2,1,0,"Population ages 35-39, male (% of male population)","SP.POP.3539.MA.5Y",6.63623769119177,6.60344544723815,6.5759297855922
+143,2021,6,"HS17","080540",1,3,2,0,"Population ages 25-29, male (% of male population)","SP.POP.2529.MA.5Y",6.9460744755783,6.86281406298262,6.82829887279047
+144,2021,6,"HS17","080550",1,2,1,0,"Population ages 15-64 (% of total population)","SP.POP.1564.TO.ZS",60.0749635263201,59.9569831057177,59.9000130223856
+145,2021,6,"HS17","080590",1,3,2,0,"Population ages 15-64, female (% of female population)","SP.POP.1564.FE.ZS",59.6892096095689,59.5479757240532,59.4651871526787
+146,2021,4,"HS17","0806",2,4,0,0,"Population ages 10-14, male (% of male population)","SP.POP.1014.MA.5Y",8.65152370334781,8.68981672002442,8.78403534519439
+147,2021,6,"HS17","080610",1,2,0,0,"Population ages 0-14 (% of total population)","SP.POP.0014.TO.ZS",28.2518964077208,28.2373276039897,28.1698188742344
+148,2021,6,"HS17","080620",1,2,0,0,"Population ages 0-14, female (% of female population)","SP.POP.0014.FE.ZS",27.4326010722074,27.4307956262324,27.3747918117048
+149,2021,4,"HS17","0807",3,4,0,0,"Mortality rate, infant (per 1,000 live births)","SP.DYN.IMRT.IN",2.8,2.8,2.7
+150,2021,6,"HS17","080711",1,1,0,0,"Refugee population by country or territory of origin","SM.POP.REFG.OR",452,373,453
+151,2021,6,"HS17","080719",1,2,0,0,"Unemployment, male (% of male labor force) (modeled ILO estimate)","SL.UEM.TOTL.MA.ZS",3.68600010871887,4.52099990844727,4.26599979400635
+152,2021,6,"HS17","080720",1,1,0,0,"Share of youth not in education, employment or training, total (% of youth population)","SL.UEM.NEET.ZS",14.2799997329712,16.0599994659424,16.7600002288818
+153,2021,4,"HS17","0808",3,3,0,0,"Unemployment with intermediate education, male (% of male labor force with intermediate education)","SL.UEM.INTM.MA.ZS",3.88000011444092,4.73000001907349,5.32000017166138
+154,2021,6,"HS17","080810",1,1,0,0,"Unemployment with basic education, female (% of female labor force with basic education)","SL.UEM.BASC.FE.ZS",7.09000015258789,7.01999998092651,6.34999990463257
+155,2021,6,"HS17","080830",1,1,0,0,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)","SL.UEM.1524.ZS",6.67199993133545,7.93100023269653,7.40199995040894
+156,2021,6,"HS17","080840",1,1,0,0,"Fixed telephone subscriptions (per 100 people)","IT.MLT.MAIN.P2",36.47803418,38.48134568,39.325582
+157,2021,4,"HS17","0809",5,10,0,0,"Railways, goods transported (million ton-km)","IS.RRS.GOOD.MT.K6",1241.5,1250.1,1085
+158,2021,6,"HS17","080910",1,2,0,0,"Households and NPISHs final consumption expenditure (% of GDP)","NE.CON.PRVT.ZS",52.355339538001,48.4216079443222,49.1612216174853
+159,2021,6,"HS17","080921",1,2,0,0,"Households and NPISHs Final consumption expenditure per capita (constant 2015 US$)","NE.CON.PRVT.PC.KD",21076.2632586057,19065.0645658132,20853.187359062
+160,2021,6,"HS17","080929",1,2,0,0,"Households and NPISHs final consumption expenditure: linked series (current LCU)","NE.CON.PRVT.CN.AD",766004507000.002,693767000000.002,786532184000.002
+161,2021,6,"HS17","080930",1,2,0,0,"General government final consumption expenditure (constant LCU)","NE.CON.GOVT.KN",298888364000,307198627000,320055596000
+162,2021,6,"HS17","080940",1,2,0,0,"General government final consumption expenditure (current US$)","NE.CON.GOVT.CD",88796747007.9696,96280216584.1667,107962426198.316
+163,2021,4,"HS17","0810",8,17,5,0,"Military expenditure (current LCU)","MS.MIL.XPND.CN",7.2489e+10,7.5049e+10,7.8524e+10
+164,2021,6,"HS17","081010",1,2,0,0,"Fixed telephone subscriptions","IT.MLT.MAIN",3140000,3370000,3500000
+165,2021,6,"HS17","081020",1,1,1,0,"Liner shipping connectivity index (maximum value in 2004 = 100)","IS.SHP.GCNW.XQ",41.3157463763,41.5863010694,41.4695768989
+166,2021,6,"HS17","081030",1,1,1,0,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)","SL.UEM.1524.FE.NE.ZS",7.21999979019165,8.21000003814697,7.98000001907349
+167,2021,6,"HS17","081040",1,1,1,0,"Labor force with intermediate education, female (% of female working-age population with intermediate education)","SL.TLF.INTM.FE.ZS",64.620002746582,62.4599990844727,62.7799987792969
+168,2021,6,"HS17","081050",1,2,0,0,"Labor force participation rate, male (% of male population ages 15+) (national estimate)","SL.TLF.CACT.MA.NE.ZS",67.5999984741211,65.5199966430664,65.129997253418
+169,2021,6,"HS17","081060",1,1,1,0,"Labor force participation rate, female (% of female population ages 15+) (national estimate)","SL.TLF.CACT.FE.NE.ZS",59.5699996948242,58.2099990844727,58.5800018310547
+170,2021,6,"HS17","081070",1,2,0,0,"Labor force with advanced education (% of total working-age population with advanced education)","SL.TLF.ADVN.ZS",81.4000015258789,80.1699981689453,80
+171,2021,6,"HS17","081090",1,7,1,0,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)","SL.TLF.ACTI.1524.MA.ZS",45.125,41.3160018920898,42.7220001220703
+172,2021,4,"HS17","0811",3,6,6,16.6666666666667,"Employment to population ratio, 15+, total (%) (national estimate)","SL.EMP.TOTL.SP.NE.ZS",61.0900001525879,59.1199989318848,58.7200012207031
+173,2021,6,"HS17","081110",1,2,2,0,"Employment to population ratio, 15+, female (%) (national estimate)","SL.EMP.TOTL.SP.FE.NE.ZS",57.2400016784668,55.810001373291,55.7299995422363
+174,2021,6,"HS17","081120",1,2,2,50,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)","SL.EMP.1524.SP.ZS",42.9249992370605,38.939998626709,40.4620018005371
+175,2021,6,"HS17","081190",1,2,2,0,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)","SL.EMP.1524.SP.FE.ZS",43.5219993591309,39.7630004882813,41.1689987182617
+176,2021,4,"HS17","0812",2,3,3,0,"Immunization, DPT (% of children ages 12-23 months)","SH.IMM.IDPT",98,98,98
+177,2021,6,"HS17","081210",1,1,1,0,"Probability of dying among adolescents ages 10-14 years (per 1,000)","SH.DYN.1014",0.4,0.4,0.4
+178,2021,6,"HS17","081290",1,2,2,0,"Number of under-five deaths","SH.DTH.MORT",637,618,589
+179,2021,4,"HS17","0813",5,8,3,0,"Number of deaths ages 20-24 years","SH.DTH.2024",202,205,210
+180,2021,6,"HS17","081310",1,1,1,0,"Secondary education, duration (years)","SE.SEC.DURS",6,6,6
+181,2021,6,"HS17","081320",1,2,0,0,"Primary education, duration (years)","SE.PRM.DURS",6,6,6
+182,2021,6,"HS17","081330",1,1,1,0,"Compulsory education, duration (years)","SE.COM.DURS",15,15,15
+183,2021,6,"HS17","081340",1,1,1,0,"Real effective exchange rate index (2010 = 100)","PX.REX.REER",109.145539555722,111.477100224645,114.299989261616
+184,2021,6,"HS17","081350",1,3,0,0,"Personal remittances, received (current US$)","BX.TRF.PWKR.CD.DT",953400000,1138100000,1230900000
+185,2021,4,"HS17","0814",1,1,1,100,"Foreign direct investment, net inflows (% of GDP)","BX.KLT.DINV.WD.GD.ZS",4.31398063025056,5.59182382763499,4.39818474170011
+186,2021,6,"HS17","081400",1,1,1,100,"Exports of goods, services and primary income (BoP, current US$)","BX.GSR.TOTL.CD",132221100000,126460500000,161917300000
+187,2021,2,"HS17","17",17,20,20,91.1764705882353,"Insurance and financial services (% of service exports, BoP)","BX.GSR.INSF.ZS",0.0647428135476962,0.070599167329101,0.0616939114211023
+188,2021,4,"HS17","1701",5,6,6,100,"ICT service exports (% of service exports, BoP)","BX.GSR.CCIS.ZS",47.6636593338139,59.863738162389,55.8861415136296
+189,2021,6,"HS17","170112",1,1,1,100,"Net capital account (BoP, current US$)","BN.TRF.KOGT.CD",389600000,435400000,470800000
+190,2021,6,"HS17","170113",1,1,1,100,"Foreign direct investment, net (BoP, current US$)","BN.KLT.DINV.CD",-8673400000,-18684600000,-12030800000
+191,2021,6,"HS17","170114",1,1,1,100,"Net primary income (BoP, current US$)","BN.GSR.FCTY.CD",-2458200000,-3810400000,-7.533e+09
+192,2021,6,"HS17","170191",1,1,1,100,"Personal remittances, paid (current US$)","BM.TRF.PWKR.CD.DT",6242600000,5776200000,6809100000
+193,2021,6,"HS17","170199",1,2,2,100,"Travel services (% of service imports, BoP)","BM.GSR.TRVL.ZS",24.647069848429,7.22209100771408,9.80679494414408
+194,2021,4,"HS17","1702",8,8,8,100,"Service imports (BoP, current US$)","BM.GSR.NFSV.CD",33080200000,24980300000,32959800000
+195,2021,6,"HS17","170211",1,1,1,100,"Primary income payments (BoP, current US$)","BM.GSR.FCTY.CD",1.69e+10,15849300000,25566700000
+196,2021,6,"HS17","170219",1,1,1,100,"Cereal production (metric tons)","AG.PRD.CREL.MT",184113.18,246807.47,268284.8
+197,2021,6,"HS17","170220",1,1,1,100,"Fixed broadband subscriptions (per 100 people)","IT.NET.BBND.P2",28.82173626,29.71261172,29.85095941
+198,2021,6,"HS17","170230",1,1,1,100,"Mobile cellular subscriptions (per 100 people)","IT.CEL.SETS.P2",135.9213376,140.1086384,140.4485071
+199,2021,6,"HS17","170240",1,1,1,100,"Rail lines (total route-km)","IS.RRS.TOTL.KM",1598.916,1619,1720
+200,2021,6,"HS17","170250",1,1,1,100,"Real interest rate (%)","FR.INR.RINR",1.66648394864954,2.24324355280973,0.952189943362597
+201,2021,6,"HS17","170260",1,1,1,100,"Personal remittances, received (% of GDP)","BX.TRF.PWKR.DT.GD.ZS",0.236886919100411,0.275390524043731,0.251961742997104
+202,2021,6,"HS17","170290",1,1,1,100,"Portfolio equity, net inflows (BoP, current US$)","BX.PEF.TOTL.CD.WD",-3.17e+09,-5578800000,10986100000
+203,2021,4,"HS17","1703",2,2,2,100,"Unemployment with basic education (% of total labor force with basic education)","SL.UEM.BASC.ZS",6.15000009536743,7.01000022888184,7.38000011444092
+204,2021,6,"HS17","170310",1,1,1,100,"Unemployment with advanced education, male (% of male labor force with advanced education)","SL.UEM.ADVN.MA.ZS",2.47000002861023,2.97000002861023,3.39000010490417
+205,2021,6,"HS17","170390",1,1,1,100,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)","SL.UEM.1524.MA.ZS",6.14599990844727,7.65999984741211,6.8769998550415
+206,2021,4,"HS17","1704",2,4,4,25,"Labor force, total","SL.TLF.TOTL.IN",4125006,4086174,4231237
+207,2021,6,"HS17","170410",1,2,2,0,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)","SL.TLF.CACT.ZS",63.5,61.7900009155273,62.9070014953613
+208,2021,6,"HS17","170490",1,2,2,50,"Ratio of female to male labor force participation rate (%) (modeled ILO estimate)","SL.TLF.CACT.FM.ZS",88.1213511282924,88.8437595044185,89.3172306454122
+209,2021,2,"HS17","18",11,14,14,97.7272727272727,"Labor force with basic education (% of total working-age population with basic education)","SL.TLF.BASC.ZS",29.8400001525879,26.8600006103516,25.8999996185303
+210,2021,4,"HS17","1801",1,1,1,100,"Labor force with advanced education, male (% of male working-age population with advanced education)","SL.TLF.ADVN.MA.ZS",83.8600006103516,82.8300018310547,82.879997253418
+211,2021,6,"HS17","180100",1,1,1,100,"Labor force participation rate for ages 15-24, male (%) (national estimate)","SL.TLF.ACTI.1524.MA.NE.ZS",45.2099990844727,41.4099998474121,42.1300010681152
+212,2021,4,"HS17","1802",1,1,1,100,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)","SL.EMP.TOTL.SP.MA.ZS",65.0839996337891,62.5359992980957,63.6720008850098
+213,2021,6,"HS17","180200",1,1,1,100,"Female share of employment in senior and middle management (%)","SL.EMP.SMGT.FE.ZS",30.7999992370605,28.7999992370605,30.1000003814697
+214,2021,4,"HS17","1803",2,2,2,100,"Employment to population ratio, ages 15-24, total (%) (national estimate)","SL.EMP.1524.SP.NE.ZS",42.9199981689453,38.939998626709,39.8600006103516
+215,2021,6,"HS17","180310",1,1,1,100,"Employment to population ratio, ages 15-24, female (%) (national estimate)","SL.EMP.1524.SP.FE.NE.ZS",43.4300003051758,39.6800003051758,40.810001373291
+216,2021,6,"HS17","180320",1,1,1,100,"Incidence of tuberculosis (per 100,000 people)","SH.TBS.INCD",2.9,2.1,2.8
+217,2021,4,"HS17","1804",1,1,1,100,"Lending interest rate (%)","FR.INR.LEND",3.53355862696966,3.30802353223165,3.1007500688235
+218,2021,6,"HS17","180400",1,1,1,100,"Consumer price index (2010 = 100)","FP.CPI.TOTL",108.17643894567,107.539896001434,109.144701452394
+219,2021,4,"HS17","1805",1,1,1,100,"Total reserves in months of imports","FI.RES.TOTL.MO",12.030947097548,18.5958032410808,17.0182527827131
+220,2021,6,"HS17","180500",1,1,1,100,"Bank capital to assets ratio (%)","FB.BNK.CAPA.ZS",7.5020415067702,6.69310069570887,6.33456217801774
+221,2021,4,"HS17","1806",5,8,8,95,"Marine protected areas (% of territorial waters)","ER.MRN.PTMR.ZS",0.032552,0.042507,0.042506821
+222,2021,6,"HS17","180610",1,1,1,100,"Population in urban agglomerations of more than 1 million (% of total population)","EN.URB.MCTY.TL.ZS",57.85075104926,57.8280322514134,57.8679090132422
+223,2021,6,"HS17","180620",1,1,1,100,"Immunization, HepB3 (% of one-year-old children)","SH.IMM.HEPB",96,96,96
+224,2021,6,"HS17","180631",1,1,1,100,"Mortality rate, neonatal (per 1,000 live births)","SH.DYN.NMRT",1.9,1.8,1.7
+225,2021,6,"HS17","180632",1,1,1,100,"Mortality rate, under-5, male (per 1,000 live births)","SH.DYN.MORT.MA",3.8,3.7,3.6
+226,2021,6,"HS17","180690",1,4,4,75,"Women's share of population ages 15+ living with HIV (%)","SH.DYN.AIDS.FE.ZS",26.6,26.6,26.7
+227,2020,2,"HS17","06",16,31,31,18.125,"Probability of dying among children ages 5-9 years (per 1,000)","SH.DYN.0509",0.4,0.4,0.4
+228,2020,4,"HS17","0601",2,9,9,45,"Number of deaths ages 15-19 years","SH.DTH.1519",151,151,154
+229,2020,6,"HS17","060110",1,4,4,50,"Women Business and the Law Index Score (scale 1-100)","SG.LAW.INDX",80.625,80.625,80.625
+230,2020,6,"HS17","060120",1,5,5,40,"Lower secondary school starting age (years)","SE.SEC.AGES",12,12,12
+231,2020,4,"HS17","0602",5,9,9,20,"Price level ratio of PPP conversion factor (GDP) to market exchange rate","PA.NUS.PPPC.RF",1.08586822981737,1.11504313118204,1.18364620938447
+232,2020,6,"HS17","060210",1,2,2,50,"Terms of trade adjustment (constant LCU)","NY.TTF.GNFS.KN",21816361991.0047,38755374831.9744,54921839395.7311
+233,2020,6,"HS17","060220",1,1,1,0,"Taxes less subsidies on products (constant LCU)","NY.TAX.NIND.KN",154699188000,149329505000,164781758000
+234,2020,6,"HS17","060230",1,1,1,0,"Internally displaced persons, new displacement associated with disasters (number of cases)","VC.IDP.NWDS",1200,10000,3900
+235,2020,6,"HS17","060240",1,1,1,0,"Transport services (% of commercial service exports)","TX.VAL.TRAN.ZS.WT",7.54545581841477,8.0147743801788,14.5719781546484
+236,2020,6,"HS17","060290",1,4,4,50,"Computer, communications and other services (% of commercial service exports)","TX.VAL.OTHR.ZS.WT",79.0528666746015,87.3756771136934,82.359444479111
+237,2020,4,"HS17","0603",7,9,9,0,"Manufactures exports (% of merchandise exports)","TX.VAL.MANF.ZS.UN",93.0266199835024,91.6476911584148,90.3808218300965
+238,2020,6,"HS17","060311",1,1,1,0,"Food exports (% of merchandise exports)","TX.VAL.FOOD.ZS.UN",3.17045928337392,3.72868388219578,3.50491077636746
+239,2020,6,"HS17","060312",1,1,1,0,"Commercial service imports (current US$)","TM.VAL.SERV.CD.WT",32789300000,24689900000,3.2669e+10
+240,2020,6,"HS17","060313",1,1,1,0,"Ores and metals imports (% of merchandise imports)","TM.VAL.MMTL.ZS.UN",1.31365229789712,1.44176575990516,1.55632026622973
+241,2020,6,"HS17","060314",1,1,1,0,"Fuel imports (% of merchandise imports)","TM.VAL.FUEL.ZS.UN",12.0882713397623,8.06569139876966,9.90815485677615
+242,2020,6,"HS17","060315",1,1,1,0,"Rural population (% of total population)","SP.RUR.TOTL.ZS",7.499,7.413,7.32599999999999
+243,2020,6,"HS17","060319",1,2,2,0,"Population, female","SP.POP.TOTL.FE.IN",4544229,4622801,4695549
+244,2020,6,"HS17","060390",1,2,2,0,"Population growth (annual %)","SP.POP.GROW",1.90898263957994,1.76367939210866,1.6029106693811
+245,2020,4,"HS17","0604",2,4,4,50,"Population ages 75-79, female (% of female population)","SP.POP.7579.FE.5Y",1.98617492907675,2.0015762862809,2.1233245505676
+246,2020,6,"HS17","060420",1,2,2,50,"Population ages 65 and above, total","SP.POP.65UP.TO",1056886,1087906,1117141
+247,2020,6,"HS17","060490",1,2,2,50,"Population ages 65 and above, female","SP.POP.65UP.FE.IN",585214,601945,617935
+248,2020,2,"HS17","07",67,124,68,22.1748400852878,"Population ages 60-64, female (% of female population)","SP.POP.6064.FE.5Y",4.2220408835926,4.21942815520445,4.20639506940207
+249,2020,4,"HS17","0701",2,8,2,0,"Population ages 50-54, female (% of female population)","SP.POP.5054.FE.5Y",4.68161124837527,4.73424211643463,4.84336778696038
+250,2020,6,"HS17","070110",1,2,2,0,"Population ages 40-44, female (% of female population)","SP.POP.4044.FE.5Y",6.26085056510026,6.20838277010974,6.13862220297219
+251,2020,6,"HS17","070190",1,6,0,0,"Population ages 30-34, female (% of female population)","SP.POP.3034.FE.5Y",6.62650469945707,6.54619742274348,6.47901692775583
+252,2020,4,"HS17","0702",1,4,0,0,"Population ages 20-24, female (% of female population)","SP.POP.2024.FE.5Y",7.02006173357441,7.07007076216571,7.09768319169546
+253,2020,6,"HS17","070200",1,4,0,0,"Population ages 15-64, male","SP.POP.1564.MA.IN",2726773,2772312,2816820
+254,2020,4,"HS17","0703",3,7,1,0,"Population ages 15-19, female (% of female population)","SP.POP.1519.FE.5Y",7.62754871463226,7.62609578926703,7.6249628325215
+255,2020,6,"HS17","070310",1,4,0,0,"Population ages 05-09, female (% of female population)","SP.POP.0509.FE.5Y",9.19492553768055,9.25360852901761,9.32844892353796
+256,2020,6,"HS17","070320",1,2,0,0,"Population ages 0-14, male","SP.POP.0014.MA.IN",1311327,1334027,1352425
+257,2020,6,"HS17","070390",1,1,1,0,"Population ages 00-04, female (% of female population)","SP.POP.0004.FE.5Y",10.0425325370842,9.93533811909782,9.71082301289272
+258,2020,4,"HS17","0704",3,7,0,0,"Mortality rate, infant, male (per 1,000 live births)","SP.DYN.IMRT.MA.IN",3.1,3,2.9
+259,2020,6,"HS17","070410",1,1,0,0,"Mortality rate, under-5, female (per 1,000 live births)","SH.DYN.MORT.FE",3.2,3.1,3.1
+260,2020,6,"HS17","070420",1,1,0,0,"Probability of dying among youth ages 20-24 years (per 1,000)","SH.DYN.2024",1.6,1.6,1.6
+261,2020,6,"HS17","070490",1,5,0,0,"Number of neonatal deaths","SH.DTH.NMRT",341,314,302
+262,2020,4,"HS17","0705",4,6,2,25,"Number of infant deaths","SH.DTH.IMRT",512,496,470
+263,2020,6,"HS17","070511",1,2,0,0,"Number of deaths ages 10-14 years","SH.DTH.1014",64,63,63
+264,2020,6,"HS17","070519",1,2,0,0,"Proportion of seats held by women in national parliaments (%)","SG.GEN.PARL.ZS",23.3333333333333,27.5,28.3333333333333
+265,2020,6,"HS17","070521",1,1,1,100,"PPP conversion factor, GDP (LCU per international $)","PA.NUS.PPP",3.870607,3.838431,3.823412
+266,2020,6,"HS17","070529",1,1,1,0,"Taxes less subsidies on products (current LCU)","NY.TAX.NIND.CN",130658349000,124158442000,143890732000
+267,2020,4,"HS17","0706",2,10,0,0,"Net primary income (Net income from abroad) (current US$)","NY.GSR.NFCY.CD",-2248825502.10238,-3649773019.28084,-7362396244.91983
+268,2020,6,"HS17","070610",1,4,0,0,"Gross savings (current US$)","NY.GNS.ICTR.CD",108919943896.445,121079146722.425,142353842080.013
+269,2020,6,"HS17","070690",1,6,0,0,"GNI per capita growth (annual %)","NY.GNP.PCAP.KD.ZG",2.97584687431329,-3.13710217354696,6.80998652541562
+270,2020,4,"HS17","0707",1,2,0,0,"GNI, PPP (constant 2017 international $)","NY.GNP.MKTP.PP.KD",369413803183.736,364191779519.717,395278644515.53
+271,2020,6,"HS17","070700",1,2,0,0,"GNI (constant 2015 US$)","NY.GNP.MKTP.KD",361116569358.09,356011835170.019,386400472363.964
+272,2020,4,"HS17","0708",3,4,0,0,"GNI, Atlas method (current US$)","NY.GNP.ATLS.CD",399013969508.681,399060059072.019,461515003039.673
+273,2020,6,"HS17","070810",1,1,0,0,"Gross domestic savings (current US$)","NY.GDS.TOTL.CD",102958962665.537,116876602091.429,140398501800.807
+274,2020,6,"HS17","070820",1,1,0,0,"GDP per capita, PPP (current international $)","NY.GDP.PCAP.PP.CD",40475.6733125529,39619.6075195875,43450.5507416792
+275,2020,6,"HS17","070890",1,2,0,0,"GDP per capita (current LCU)","NY.GDP.PCAP.CN",158451.19858626,154380.857831168,168521.745941905
+276,2020,4,"HS17","0709",11,20,9,0,"GDP, PPP (current international $)","NY.GDP.MKTP.PP.CD",366466746171.854,365098645253.751,406870957145.084
+277,2020,6,"HS17","070920",1,2,2,0,"GDP: linked series (current LCU)","NY.GDP.MKTP.CN.AD",1418448753000,1401405958000,1555635300000
+278,2020,6,"HS17","070930",1,1,0,0,"GDP deflator (base year varies by country)","NY.GDP.DEFL.ZS",102.967245182382,104.039565048191,106.253833614908
+279,2020,6,"HS17","070940",1,1,0,0,"Exports as a capacity to import (constant LCU)","NY.EXP.CAPM.KN",454678672991.005,459775568831.974,537265856395.731
+280,2020,6,"HS17","070951",1,2,1,0,"Services, value added (constant 2015 US$)","NV.SRV.TOTL.KD",245978865314.524,241243879421.98,263320758115.004
+281,2020,6,"HS17","070959",1,3,2,0,"Industry (including construction), value added (annual % growth)","NV.IND.TOTL.KD.ZG",3.8959744775803,-0.531168562276847,6.04632845947559
+282,2020,6,"HS17","070960",1,2,0,0,"Manufacturing, value added (% of GDP)","NV.IND.MANF.ZS",11.3943075873667,11.1676745052596,10.1648026670725
+283,2020,6,"HS17","070970",1,1,0,0,"Manufacturing, value added (current LCU)","NV.IND.MANF.CN",163464691000,158875251000,160404411000
+284,2020,6,"HS17","070991",1,1,0,0,"Agriculture, forestry, and fishing, value added (constant 2015 US$)","NV.AGR.TOTL.KD",4556597229.96441,4249099867.0726,4535112130.69766
+285,2020,6,"HS17","070992",1,1,0,0,"Trade (% of GDP)","NE.TRD.GNFS.ZS",56.3464191037359,50.8833770517489,54.9629252852246
+286,2020,6,"HS17","070993",1,2,1,0,"External balance on goods and services (current US$)","NE.RSB.GNFS.CD",9057752644.45575,18464774269.2203,19321524800.8324
+287,2020,6,"HS17","070999",1,4,3,0,"Imports of goods and services (constant 2015 US$)","NE.IMP.GNFS.KD",107993544873.719,99193571973.7576,119669247973.929
+288,2020,4,"HS17","0710",8,15,15,3.57142857142857,"Gross capital formation (constant LCU)","NE.GDI.TOTL.KN",339490979000,343568843000,386840307000
+289,2020,6,"HS17","071010",1,1,1,0,"Gross capital formation (current US$)","NE.GDI.TOTL.CD",93901217034.6337,98411945472.4854,121077113833.679
+290,2020,6,"HS17","071021",1,1,1,0,"Gross fixed capital formation (% of GDP)","NE.GDI.FTOT.ZS",22.6564774125885,22.1157690827387,22.9808079563862
+291,2020,6,"HS17","071022",1,1,1,0,"Gross fixed capital formation (current LCU)","NE.GDI.FTOT.CN",325033711000,314626681000,362645797000
+292,2020,6,"HS17","071029",1,2,2,0,"Exports of goods and services (% of GDP)","NE.EXP.GNFS.ZS",29.2984786508394,27.6756854779656,29.4589933381113
+293,2020,6,"HS17","071030",1,1,1,0,"Exports of goods and services (current LCU)","NE.EXP.GNFS.CN",4.20321e+11,3.93724e+11,4.64874e+11
+294,2020,6,"HS17","071040",1,1,1,0,"Gross national expenditure (constant 2015 US$)","NE.DAB.TOTL.KD",355049616654.518,343364643797.436,377152089704.558
+295,2020,6,"HS17","071080",1,7,7,28.5714285714286,"Final consumption expenditure (% of GDP)","NE.CON.TOTL.ZS",74.4182594298162,71.7189098511473,71.2608244147263
+296,2020,6,"HS17","071090",1,1,1,0,"Final consumption expenditure (current LCU)","NE.CON.TOTL.CN",1067617114000,1020298344000,1124522624000
+297,2020,4,"HS17","0711",5,11,11,2.85714285714286,"Households and NPISHs Final consumption expenditure, PPP (current international $)","NE.CON.PRVT.PP.CD",178190310551.782,160794051681.361,184210144141.76
+298,2020,6,"HS17","071120",1,1,1,0,"Households and NPISHs Final consumption expenditure (annual % growth)","NE.CON.PRVT.KD.ZG",4.04937994555313,-7.9329499362844,11.1464299029371
+299,2020,6,"HS17","071140",1,1,1,0,"Households and NPISHs Final consumption expenditure (current US$)","NE.CON.PRVT.CD",210714803945.642,200110850555.926,240165617879.768
+300,2020,6,"HS17","071151",1,1,1,0,"Net primary income (Net income from abroad) (current LCU)","NY.GSR.NFCY.CN",-8.016e+09,-1.2564e+10,-2.3782e+10
+301,2020,6,"HS17","071159",1,1,1,0,"Gross savings (current LCU)","NY.GNS.ICTR.CN",388248118610.206,416803563230.98,459831141889.827
+302,2020,6,"HS17","071190",1,7,7,14.2857142857143,"GNI per capita (constant LCU)","NY.GNP.PCAP.KN",155025.394190413,150162.089179716,160388.107219137
+303,2020,4,"HS17","0712",6,12,12,23.8095238095238,"GNI per capita, Atlas method (current US$)","NY.GNP.PCAP.CD",44070,43310,49290
+304,2020,6,"HS17","071220",1,1,1,0,"GNI growth (annual %)","NY.GNP.MKTP.KD.ZG",3.64187198250295,-2.18902529478596,7.90339698061054
+305,2020,6,"HS17","071231",1,1,1,0,"GNI (current US$)","NY.GNP.MKTP.CD",400221694850.056,409618013862.518,481164286158.097
+306,2020,6,"HS17","071232",1,1,1,0,"Gross domestic savings (current LCU)","NY.GDS.TOTL.CN",367000038000,402336699000,453515005000
+307,2020,6,"HS17","071233",1,1,1,0,"GDP per capita, PPP (constant 2017 international $)","NY.GDP.PCAP.PP.KD",40810.0545001143,39351.8959819247,42061.2409157787
+308,2020,6,"HS17","071239",1,1,1,100,"GDP per capita (constant 2015 US$)","NY.GDP.PCAP.KD",39591.3687578516,38176.7543372587,40805.1917574569
+309,2020,6,"HS17","071290",1,7,7,42.8571428571429,"GDP, PPP (constant 2017 international $)","NY.GDP.MKTP.PP.KD",369494233444.034,362631656663.035,393861459935.352
+310,2020,4,"HS17","0713",12,12,11,91.6666666666667,"GDP (constant 2015 US$)","NY.GDP.MKTP.KD",358460252733.588,351802608893.272,382099815616.826
+311,2020,6,"HS17","071310",1,1,1,100,"GDP deflator: linked series (base year varies by country)","NY.GDP.DEFL.ZS.AD",103.363153292248,104.368741510413,107.086573358352
+312,2020,6,"HS17","071320",1,1,0,0,"Services, value added (annual % growth)","NV.SRV.TOTL.KD.ZG",4.12893459939102,-1.92495639269201,9.15126997042147
+313,2020,6,"HS17","071331",1,1,1,100,"Industry (including construction), value added (constant LCU)","NV.IND.TOTL.KN",265181545000,263772984000,279721565000
+314,2020,6,"HS17","071332",1,1,1,100,"Industry (including construction), value added (current US$)","NV.IND.TOTL.CD",74997549746.4403,74968597572.8191,83890367074.8508
+315,2020,6,"HS17","071333",1,1,1,100,"Manufacturing, value added (constant 2015 US$)","NV.IND.MANF.KD",43724374683.7614,44943216500.1501,47103781999.0567
+316,2020,6,"HS17","071334",1,1,1,100,"Agriculture, forestry, and fishing, value added (annual % growth)","NV.AGR.TOTL.KD.ZG",0.648259311908134,-6.7483990217458,6.73112594602551
+317,2020,6,"HS17","071335",1,1,1,100,"External balance on goods and services (current LCU)","NE.RSB.GNFS.CN",32286607000,63563247000,62412357000
+318,2020,6,"HS17","071339",1,1,1,100,"Imports of goods and services (annual % growth)","NE.IMP.GNFS.KD.ZG",3.16057022766817,-8.14861009540112,20.6421400023668
+319,2020,6,"HS17","071340",1,1,1,100,"Gross capital formation (% of GDP)","NE.GDI.TOTL.ZS",23.3312041148662,23.8131247129697,24.7841422037472
+320,2020,6,"HS17","071350",1,1,1,100,"Gross capital formation (current LCU)","NE.GDI.TOTL.CN",334713456000,338773857000,391103090000
+321,2020,6,"HS17","071360",1,1,1,100,"Changes in inventories (current US$)","NE.GDI.STKB.CD",2715575743.64053,7014622051.62575,8809766509.28363
+322,2020,6,"HS17","071390",1,1,1,100,"Gross fixed capital formation (constant 2015 US$)","NE.GDI.FTOT.KD",81555566656.6615,78400858711.0331,87571736374.9411
+323,2020,4,"HS17","0714",6,6,5,16.6666666666667,"Exports of goods and services (constant 2015 US$)","NE.EXP.GNFS.KD",111366316452.982,108319590240.556,124096912739.591
+324,2020,6,"HS17","071410",1,1,1,100,"Gross national expenditure (constant LCU)","NE.DAB.TOTL.KN",1380018685000,1334601143000,1465927314000
+325,2020,6,"HS17","071420",1,1,0,0,"Gross national expenditure deflator (base year varies by country)","NE.DAB.DEFL.ZS",101.616781369884,101.833585871581,103.390236304718
+326,2020,6,"HS17","071430",1,1,1,0,"Final consumption expenditure (constant 2015 US$)","NE.CON.TOTL.KD",267705768877.836,254971647871.018,277626261395.309
+327,2020,6,"HS17","071440",1,1,1,0,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)","NE.CON.PRVT.PP.KD",176881309466.421,162849403739.805,181001298375.014
+328,2020,6,"HS17","071450",1,1,1,0,"Households and NPISHs Final consumption expenditure (constant LCU)","NE.CON.PRVT.KN",741702979000,682864053000,758979016000
+329,2020,6,"HS17","071490",1,1,1,0,"Households and NPISHs Final consumption expenditure (current LCU)","NE.CON.PRVT.CN",751098681000,688862763000,775782576000
+330,2020,2,"HS17","08",68,115,58,8.82352941176471,"General government final consumption expenditure (annual % growth)","NE.CON.GOVT.KD.ZG",2.95929982029337,2.780390273072,4.18522996849202
+331,2020,4,"HS17","0801",7,7,7,42.8571428571429,"Military expenditure (current USD)","MS.MIL.XPND.CD",20339225589.2256,21816569767.4419,24340979541.2275
+332,2020,6,"HS17","080111",1,1,1,100,"Total reserves (includes gold, current US$)","FI.RES.TOTL.CD",126007828810.341,173292120893.254,212933655186.265
+333,2020,6,"HS17","080112",1,1,1,100,"Bank nonperforming loans to total gross loans (%)","FB.AST.NPER.ZS",1.38801645888401,1.47602162943813,1.12523478748013
+334,2020,6,"HS17","080119",1,1,1,100,"Population in the largest city (% of urban population)","EN.URB.LCTY.UR.ZS",48.9187217113325,49.0094626279816,49.1328467308051
+335,2020,6,"HS17","080121",1,1,1,0,"Transport services (% of service exports, BoP)","BX.GSR.TRAN.ZS",7.54323770061523,8.01019241449152,14.5654579179729
+336,2020,6,"HS17","080122",1,1,1,0,"Goods exports (BoP, current US$)","BX.GSR.MRCH.CD",60630100000,59321800000,70132400000
+337,2020,6,"HS17","080131",1,1,1,0,"Communications, computer, etc. (% of service exports, BoP)","BX.GSR.CMCP.ZS",79.0590244482862,87.3828943117761,82.3673377517925
+338,2020,6,"HS17","080132",1,1,1,0,"Portfolio investment, net (BoP, current US$)","BN.KLT.PTXL.CD",6.465e+09,-4124800000,-15487800000
+339,2020,4,"HS17","0802",15,20,17,10,"Net trade in goods and services (BoP, current US$)","BN.GSR.GNFS.CD",8995600000,18444300000,19305400000
+340,2020,6,"HS17","080211",1,2,1,50,"Current account balance (BoP, current US$)","BN.CAB.XOKA.CD",14747200000,22486100000,2.109e+10
+341,2020,6,"HS17","080212",1,2,1,50,"Foreign direct investment, net outflows (BoP, current US$)","BM.KLT.DINV.CD.WD",8689100000,4424600000,9455500000
+342,2020,6,"HS17","080221",1,1,1,0,"Charges for the use of intellectual property, payments (BoP, current US$)","BM.GSR.ROYL.CD",1520200000,1669800000,2176500000
+343,2020,6,"HS17","080222",1,2,2,50,"Imports of goods and services (BoP, current US$)","BM.GSR.GNFS.CD",108783700000,95977300000,124578200000
+344,2020,6,"HS17","080231",1,1,1,0,"Cereal yield (kg per hectare)","AG.YLD.CREL.KG",3625.1,3835.1,3508.8
+345,2020,6,"HS17","080232",1,1,1,0,"Land under cereal production (hectares)","AG.LND.CREL.HA",50788,64355,76461
+346,2020,6,"HS17","080241",1,1,1,0,"Unemployment, total (% of total labor force) (national estimate)","SL.UEM.TOTL.NE.ZS",3.79999995231628,4.32999992370605,4.96000003814697
+347,2020,6,"HS17","080242",1,1,1,0,"Unemployment, female (% of female labor force) (national estimate)","SL.UEM.TOTL.FE.NE.ZS",3.9300000667572,4.11999988555908,4.8600001335144
+348,2020,6,"HS17","080251",1,1,1,0,"Unemployment with intermediate education (% of total labor force with intermediate education)","SL.UEM.INTM.ZS",4.19999980926514,4.75,5.5
+349,2020,6,"HS17","080252",1,1,1,0,"Unemployment with basic education, male (% of male labor force with basic education)","SL.UEM.BASC.MA.ZS",5.73000001907349,7.01000022888184,7.90000009536743
+350,2020,6,"HS17","080261",1,1,1,0,"Unemployment with advanced education, female (% of female labor force with advanced education)","SL.UEM.ADVN.FE.ZS",2.64000010490417,2.77999997138977,3.50999999046326
+351,2020,6,"HS17","080262",1,1,1,0,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)","SL.UEM.1524.MA.NE.ZS",6.1399998664856,7.6399998664856,7.53999996185303
+352,2020,6,"HS17","080270",1,1,1,0,"Labor force, female (% of total labor force)","SL.TLF.TOTL.FE.ZS",47.6041004546418,47.7737120347787,47.8764720576985
+353,2020,6,"HS17","080280",1,1,1,0,"Labor force with intermediate education (% of total working-age population with intermediate education)","SL.TLF.INTM.ZS",69.4899978637695,67.3000030517578,67.120002746582
+354,2020,6,"HS17","080290",1,3,2,0,"Labor force participation rate, total (% of total population ages 15+) (national estimate)","SL.TLF.CACT.NE.ZS",63.5,61.7900009155273,61.7900009155273
+355,2020,4,"HS17","0803",2,4,2,0,"Ratio of female to male labor force participation rate (%) (national estimate)","SL.TLF.CACT.FM.NE.ZS",88.1213033127938,88.8431044976751,89.9431971463509
+356,2020,6,"HS17","080310",1,2,1,0,"Labor force with basic education, male (% of male working-age population with basic education)","SL.TLF.BASC.MA.ZS",39.6399993896484,34.8600006103516,33.0999984741211
+357,2020,6,"HS17","080390",1,2,1,0,"Labor force with advanced education, female (% of female working-age population with advanced education)","SL.TLF.ADVN.FE.ZS",79.4899978637695,78.0999984741211,77.7600021362305
+358,2020,4,"HS17","0804",5,12,5,0,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)","SL.TLF.ACTI.1524.ZS",45.9939994812012,42.2939987182617,43.6969985961914
+359,2020,6,"HS17","080410",1,2,1,0,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)","SL.TLF.ACTI.1524.FE.ZS",46.898998260498,43.3139991760254,44.7130012512207
+360,2020,6,"HS17","080420",1,3,1,0,"GDP per person employed (constant 2017 PPP $)","SL.GDP.PCAP.EM.KD",93112.4991542971,92763.4117028849,99083.721720163
+361,2020,6,"HS17","080430",1,2,1,0,"Employment to population ratio, 15+, male (%) (national estimate)","SL.EMP.TOTL.SP.MA.NE.ZS",65.1100006103516,62.560001373291,61.8400001525879
+362,2020,6,"HS17","080440",1,2,1,0,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)","SL.EMP.1524.SP.MA.ZS",42.3520011901855,38.1510009765625,39.7840003967285
+363,2020,6,"HS17","080450",1,3,1,0,"Tuberculosis case detection rate (%, all forms)","SH.TBS.DTEC.ZS",87,87,87
+364,2020,4,"HS17","0805",7,16,9,0,"PPP conversion factor, private consumption (LCU per international $)","PA.NUS.PRVT.PP",4.2988,4.314631,4.269755
+365,2020,6,"HS17","080510",1,2,1,0,"DEC alternative conversion factor (LCU per US$)","PA.NUS.ATLS",3.56452734661093,3.44240585198792,3.23019832251082
+366,2020,6,"HS17","080521",1,2,1,0,"Net secondary income (Net current transfers from abroad) (current US$)","NY.TRF.NCTR.CD",8203640246.38574,7830308557.14877,9309459357.47549
+367,2020,6,"HS17","080522",1,2,1,0,"Net primary income (Net income from abroad) (constant LCU)","NY.GSR.NFCY.KN",-7886757000,-12329548000,-22980495000
+368,2020,6,"HS17","080529",1,2,1,0,"Gross savings (% of GNI)","NY.GNS.ICTR.GN.ZS",27.2149024648082,29.559038573695,29.5852884711479
+369,2020,6,"HS17","080540",1,3,2,0,"GNI per capita, PPP (current international $)","NY.GNP.PCAP.PP.CD",40250,39220,43790
+370,2020,6,"HS17","080550",1,2,1,0,"GNI per capita (current LCU)","NY.GNP.PCAP.CN",157565.846697592,153017.487384836,165982.066424605
+371,2020,6,"HS17","080590",1,3,2,0,"GNI (constant LCU)","NY.GNP.MKTP.KN",1403599919000,1383758668000,1501874236000
+372,2020,4,"HS17","0806",2,4,0,0,"GNI (current LCU)","NY.GNP.MKTP.CN",1426601176000,1410071448000,1554256070000
+373,2020,6,"HS17","080610",1,2,0,0,"Gross domestic savings (% of GDP)","NY.GDS.TOTL.ZS",25.5817405701838,28.2810901488527,28.7391755852737
+374,2020,6,"HS17","080620",1,2,0,0,"GDP per capita growth (annual %)","NY.GDP.PCAP.KD.ZG",2.18667357283937,-3.57303741945609,6.88491587571389
+375,2020,4,"HS17","0807",3,4,0,0,"GDP growth (annual %)","NY.GDP.MKTP.KD.ZG",4.15613798897733,-1.85728927811242,8.61199034846989
+376,2020,6,"HS17","080711",1,1,0,0,"GDP (current US$)","NY.GDP.MKTP.CD",402470513619.148,413267669231.522,488526545878.891
+377,2020,6,"HS17","080719",1,2,0,0,"Discrepancy in expenditure estimate of GDP (current LCU)","NY.GDP.DISC.CN",-25000,-405000,-442000
+378,2020,6,"HS17","080720",1,1,0,0,"Inflation, GDP deflator (annual %)","NY.GDP.DEFL.KD.ZG",1.83647019726104,1.0414184276851,2.12829471719861
+379,2020,4,"HS17","0808",3,3,0,0,"Services, value added (constant LCU)","NV.SRV.TOTL.KN",956078853000,937674752000,1023483900000
+380,2020,6,"HS17","080810",1,1,0,0,"Services, value added (current US$)","NV.SRV.TOTL.CD",285430514642.381,296791261672.415,353930337351.963
+381,2020,6,"HS17","080830",1,1,0,0,"Industry (including construction), value added (% of GDP)","NV.IND.TOTL.ZS",18.6342967269919,18.1404458065216,17.1721204881357
+382,2020,6,"HS17","080840",1,1,0,0,"Industry (including construction), value added (current LCU)","NV.IND.TOTL.CN",267330817000,258072339000,270982523000
+383,2020,4,"HS17","0809",5,10,0,0,"Manufacturing, value added (annual % growth)","NV.IND.MANF.KD.ZG",3.87455448909047,2.78755688378392,4.80732281121745
+384,2020,6,"HS17","080910",1,2,0,0,"Agriculture, forestry, and fishing, value added (constant LCU)","NV.AGR.TOTL.KN",17710734000,16515543000,17627225000
+385,2020,6,"HS17","080921",1,2,0,0,"Agriculture, forestry, and fishing, value added (current US$)","NV.AGR.TOTL.CD",5387281154.75334,5440464258.21197,6160362000.47694
+386,2020,6,"HS17","080929",1,2,0,0,"External balance on goods and services (constant LCU)","NE.RSB.GNFS.KN",13109402000,35471312000,17209595000
+387,2020,6,"HS17","080930",1,2,0,0,"Imports of goods and services (constant LCU)","NE.IMP.GNFS.KN",419752910000,385548882000,465134422000
+388,2020,6,"HS17","080940",1,2,0,0,"Imports of goods and services (current US$)","NE.IMP.GNFS.CD",108859984864.174,95909886049.4148,124593477804.536
+389,2020,4,"HS17","0810",8,17,5,0,"Gross capital formation (constant 2015 US$)","NE.GDI.TOTL.KD",87343847776.682,88392995926.4183,99525828309.2493
+390,2020,6,"HS17","081010",1,2,0,0,"Changes in inventories (current LCU)","NE.GDI.STKB.CN",9679744000,24147176000,28457293000
+391,2020,6,"HS17","081020",1,1,1,0,"Gross fixed capital formation (annual % growth)","NE.GDI.FTOT.KD.ZG",3.32711005516768,-3.86816997901482,11.6974199194804
+392,2020,6,"HS17","081030",1,1,1,0,"Exports of goods and services (annual % growth)","NE.EXP.GNFS.KD.ZG",3.68194002681628,-2.73576994325107,14.5655300800132
+393,2020,6,"HS17","081040",1,1,1,0,"Gross national expenditure (% of GDP)","NE.DAB.TOTL.ZS",97.7494635446823,95.532034564117,96.0449666184735
+394,2020,6,"HS17","081050",1,2,0,0,"Gross national expenditure (current US$)","NE.DAB.TOTL.CD",393412767988.245,394803012612.578,469205157911.763
+395,2020,6,"HS17","081060",1,1,1,0,"Final consumption expenditure (annual % growth)","NE.CON.TOTL.KD.ZG",3.7259800328389,-4.75676002806983,8.88515006019482
+396,2020,6,"HS17","081070",1,2,0,0,"Risk premium on lending (lending rate minus treasury bill rate, %)","FR.INR.RISK",3.27143048944537,3.23567391747802,3.09501504666776
+397,2020,6,"HS17","081090",1,7,1,0,"Deposit interest rate (%)","FR.INR.DPST",0.649679924050967,0.548620954155922,0.442195922136307
+398,2020,4,"HS17","0811",3,6,6,16.6666666666667,"Depositors with commercial banks (per 1,000 adults)","FB.CBK.DPTR.P3",1072.70172332461,1075.10887234221,1062.07883864324
+399,2020,6,"HS17","081110",1,2,2,0,"Automated teller machines (ATMs) (per 100,000 adults)","FB.ATM.TOTL.P5",133.154854163731,133.324732707743,131.459297184735
+400,2020,6,"HS17","081120",1,2,2,50,"Terrestrial protected areas (% of total land area)","ER.LND.PTLD.ZS",19.9466,24.48995,24.48995018
+401,2020,6,"HS17","081190",1,2,2,0,"Population in urban agglomerations of more than 1 million","EN.URB.MCTY",5237807,5328911,5418751
+402,2020,4,"HS17","0812",2,3,3,0,"S&P Global Equity Indices (annual % change)","CM.MKT.INDX.ZG",18.4174347478095,17.3778302539724,19.8296181572498
+403,2020,6,"HS17","081210",1,1,1,0,"Secondary income receipts (BoP, current US$)","BX.TRF.CURR.CD",12404400000,12833500000,14789900000
+404,2020,6,"HS17","081290",1,2,2,0,"Travel services (% of service exports, BoP)","BX.GSR.TRVL.ZS",13.3329950375508,4.53631410640329,3.00551041881352
+405,2020,4,"HS17","0813",5,8,3,0,"Service exports (BoP, current US$)","BX.GSR.NFSV.CD",57149200000,55099800000,73751200000
+406,2020,6,"HS17","081310",1,1,1,0,"Primary income receipts (BoP, current US$)","BX.GSR.FCTY.CD",14441800000,12038900000,18033700000
+407,2020,6,"HS17","081320",1,2,0,0,"Reserves and related items (BoP, current US$)","BN.RES.INCL.CD",6481148543.27433,37943140174.832,39777274314.3371
+408,2020,6,"HS17","081330",1,1,1,0,"Net trade in goods (BoP, current US$)","BN.GSR.MRCH.CD",-15073400000,-11675200000,-2.1486e+10
+409,2020,6,"HS17","081340",1,1,1,0,"Current account balance (% of GDP)","BN.CAB.XOKA.GD.ZS",3.66416905114074,5.44104987496681,4.31706325437397
+410,2020,6,"HS17","081350",1,3,0,0,"Foreign direct investment, net outflows (% of GDP)","BM.KLT.DINV.WD.GD.ZS",2.15894076857078,1.07063782855978,1.9355140636194
+411,2020,4,"HS17","0814",1,1,1,100,"Imports of goods, services and primary income (BoP, current US$)","BM.GSR.TOTL.CD",125683700000,111826600000,150144900000
+412,2020,6,"HS17","081400",1,1,1,100,"Insurance and financial services (% of service imports, BoP)","BM.GSR.INSF.ZS",2.10004776271002,2.76457848784842,1.7582024162768
+413,2020,2,"HS17","17",17,20,20,91.1764705882353,"Trade in services (% of GDP)","BG.GSR.NFSV.GD.ZS",22.4188846006698,19.3772961114791,21.843439399597
+414,2020,4,"HS17","1701",5,6,6,100,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)","SL.UEM.1524.FE.ZS",7.19899988174438,8.19900035858154,7.92600011825562
+415,2020,6,"HS17","170112",1,1,1,100,"Labor force with intermediate education, male (% of male working-age population with intermediate education)","SL.TLF.INTM.MA.ZS",74.120002746582,71.8899993896484,71.1900024414063
+416,2020,6,"HS17","170113",1,1,1,100,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)","SL.TLF.CACT.MA.ZS",67.5749969482422,65.4970016479492,66.5090026855469
+417,2020,6,"HS17","170114",1,1,1,100,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)","SL.TLF.CACT.FE.ZS",59.5480003356934,58.189998626709,59.4039993286133
+418,2020,6,"HS17","170191",1,1,1,100,"Labor force with basic education, female (% of female working-age population with basic education)","SL.TLF.BASC.FE.ZS",19.1000003814697,18.1800003051758,18.1599998474121
+419,2020,6,"HS17","170199",1,2,2,100,"Labor force participation rate for ages 15-24, total (%) (national estimate)","SL.TLF.ACTI.1524.NE.ZS",45.9900016784668,42.2900009155273,43.2200012207031
+420,2020,4,"HS17","1702",8,8,8,100,"Labor force participation rate for ages 15-24, female (%) (national estimate)","SL.TLF.ACTI.1524.FE.NE.ZS",46.810001373291,43.2200012207031,44.3499984741211
+421,2020,6,"HS17","170211",1,1,1,100,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)","SL.EMP.TOTL.SP.ZS",61.0870018005371,59.1139984130859,60.189998626709
+422,2020,6,"HS17","170219",1,1,1,100,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)","SL.EMP.TOTL.SP.FE.ZS",57.2099990844727,55.7919998168945,56.8040008544922
+423,2020,6,"HS17","170220",1,1,1,100,"Employment to population ratio, ages 15-24, male (%) (national estimate)","SL.EMP.1524.SP.MA.NE.ZS",42.439998626709,38.25,38.9500007629395
+424,2020,6,"HS17","170230",1,1,1,100,NA,NA,NA,NA,NA
+425,2020,6,"HS17","170240",1,1,1,100,NA,NA,NA,NA,NA
+426,2020,6,"HS17","170250",1,1,1,100,NA,NA,NA,NA,NA
+427,2020,6,"HS17","170260",1,1,1,100,NA,NA,NA,NA,NA
+428,2020,6,"HS17","170290",1,1,1,100,NA,NA,NA,NA,NA
+429,2020,4,"HS17","1703",2,2,2,100,NA,NA,NA,NA,NA
+430,2020,6,"HS17","170310",1,1,1,100,NA,NA,NA,NA,NA
+431,2020,6,"HS17","170390",1,1,1,100,NA,NA,NA,NA,NA
+432,2020,4,"HS17","1704",2,4,4,25,NA,NA,NA,NA,NA
+433,2020,6,"HS17","170410",1,2,2,0,NA,NA,NA,NA,NA
+434,2020,6,"HS17","170490",1,2,2,50,NA,NA,NA,NA,NA
+435,2020,2,"HS17","18",11,14,14,97.7272727272727,NA,NA,NA,NA,NA
+436,2020,4,"HS17","1801",1,1,1,100,NA,NA,NA,NA,NA
+437,2020,6,"HS17","180100",1,1,1,100,NA,NA,NA,NA,NA
+438,2020,4,"HS17","1802",1,1,1,100,NA,NA,NA,NA,NA
+439,2020,6,"HS17","180200",1,1,1,100,NA,NA,NA,NA,NA
+440,2020,4,"HS17","1803",2,2,2,100,NA,NA,NA,NA,NA
+441,2020,6,"HS17","180310",1,1,1,100,NA,NA,NA,NA,NA
+442,2020,6,"HS17","180320",1,1,1,100,NA,NA,NA,NA,NA
+443,2020,4,"HS17","1804",1,1,1,100,NA,NA,NA,NA,NA
+444,2020,6,"HS17","180400",1,1,1,100,NA,NA,NA,NA,NA
+445,2020,4,"HS17","1805",1,1,1,100,NA,NA,NA,NA,NA
+446,2020,6,"HS17","180500",1,1,1,100,NA,NA,NA,NA,NA
+447,2020,4,"HS17","1806",5,8,8,95,NA,NA,NA,NA,NA
+448,2020,6,"HS17","180610",1,1,1,100,NA,NA,NA,NA,NA
+449,2020,6,"HS17","180620",1,1,1,100,NA,NA,NA,NA,NA
+450,2020,6,"HS17","180631",1,1,1,100,NA,NA,NA,NA,NA
+451,2020,6,"HS17","180632",1,1,1,100,NA,NA,NA,NA,NA
+452,2020,6,"HS17","180690",1,4,4,75,NA,NA,NA,NA,NA
+453,2019,2,"HS17","06",16,31,31,18.125,NA,NA,NA,NA,NA
+454,2019,4,"HS17","0601",2,9,9,45,NA,NA,NA,NA,NA
+455,2019,6,"HS17","060110",1,4,4,50,NA,NA,NA,NA,NA
+456,2019,6,"HS17","060120",1,5,5,40,NA,NA,NA,NA,NA
+457,2019,4,"HS17","0602",5,9,9,20,NA,NA,NA,NA,NA
+458,2019,6,"HS17","060210",1,2,2,50,NA,NA,NA,NA,NA
+459,2019,6,"HS17","060220",1,1,1,0,NA,NA,NA,NA,NA
+460,2019,6,"HS17","060230",1,1,1,0,NA,NA,NA,NA,NA
+461,2019,6,"HS17","060240",1,1,1,0,NA,NA,NA,NA,NA
+462,2019,6,"HS17","060290",1,4,4,50,NA,NA,NA,NA,NA
+463,2019,4,"HS17","0603",7,9,9,0,NA,NA,NA,NA,NA
+464,2019,6,"HS17","060311",1,1,1,0,NA,NA,NA,NA,NA
+465,2019,6,"HS17","060312",1,1,1,0,NA,NA,NA,NA,NA
+466,2019,6,"HS17","060313",1,1,1,0,NA,NA,NA,NA,NA
+467,2019,6,"HS17","060314",1,1,1,0,NA,NA,NA,NA,NA
+468,2019,6,"HS17","060315",1,1,1,0,NA,NA,NA,NA,NA
+469,2019,6,"HS17","060319",1,2,2,0,NA,NA,NA,NA,NA
+470,2019,6,"HS17","060390",1,2,2,0,NA,NA,NA,NA,NA
+471,2019,4,"HS17","0604",2,4,4,50,NA,NA,NA,NA,NA
+472,2019,6,"HS17","060420",1,2,2,50,NA,NA,NA,NA,NA
+473,2019,6,"HS17","060490",1,2,2,50,NA,NA,NA,NA,NA
+474,2019,2,"HS17","07",67,136,58,21.7484008528785,NA,NA,NA,NA,NA
+475,2019,4,"HS17","0701",2,8,2,0,NA,NA,NA,NA,NA
+476,2019,6,"HS17","070110",1,2,2,0,NA,NA,NA,NA,NA
+477,2019,6,"HS17","070190",1,6,0,0,NA,NA,NA,NA,NA
+478,2019,4,"HS17","0702",1,6,0,0,NA,NA,NA,NA,NA
+479,2019,6,"HS17","070200",1,6,0,0,NA,NA,NA,NA,NA
+480,2019,4,"HS17","0703",3,9,1,0,NA,NA,NA,NA,NA
+481,2019,6,"HS17","070310",1,6,0,0,NA,NA,NA,NA,NA
+482,2019,6,"HS17","070320",1,2,0,0,NA,NA,NA,NA,NA
+483,2019,6,"HS17","070390",1,1,1,0,NA,NA,NA,NA,NA
+484,2019,4,"HS17","0704",3,8,0,0,NA,NA,NA,NA,NA
+485,2019,6,"HS17","070410",1,1,0,0,NA,NA,NA,NA,NA
+486,2019,6,"HS17","070420",1,1,0,0,NA,NA,NA,NA,NA
+487,2019,6,"HS17","070490",1,6,0,0,NA,NA,NA,NA,NA
+488,2019,4,"HS17","0705",4,8,2,25,NA,NA,NA,NA,NA
+489,2019,6,"HS17","070511",1,3,0,0,NA,NA,NA,NA,NA
+490,2019,6,"HS17","070519",1,3,0,0,NA,NA,NA,NA,NA
+491,2019,6,"HS17","070521",1,1,1,100,NA,NA,NA,NA,NA
+492,2019,6,"HS17","070529",1,1,1,0,NA,NA,NA,NA,NA
+493,2019,4,"HS17","0706",2,13,0,0,NA,NA,NA,NA,NA
+494,2019,6,"HS17","070610",1,6,0,0,NA,NA,NA,NA,NA
+495,2019,6,"HS17","070690",1,7,0,0,NA,NA,NA,NA,NA
+496,2019,4,"HS17","0707",1,3,0,0,NA,NA,NA,NA,NA
+497,2019,6,"HS17","070700",1,3,0,0,NA,NA,NA,NA,NA
+498,2019,4,"HS17","0708",3,4,0,0,NA,NA,NA,NA,NA
+499,2019,6,"HS17","070810",1,1,0,0,NA,NA,NA,NA,NA
+500,2019,6,"HS17","070820",1,1,0,0,NA,NA,NA,NA,NA
+501,2019,6,"HS17","070890",1,2,0,0,NA,NA,NA,NA,NA
+502,2019,4,"HS17","0709",11,21,9,0,NA,NA,NA,NA,NA
+503,2019,6,"HS17","070920",1,2,2,0,NA,NA,NA,NA,NA
+504,2019,6,"HS17","070930",1,1,0,0,NA,NA,NA,NA,NA
+505,2019,6,"HS17","070940",1,1,0,0,NA,NA,NA,NA,NA
+506,2019,6,"HS17","070951",1,2,1,0,NA,NA,NA,NA,NA
+507,2019,6,"HS17","070959",1,3,2,0,NA,NA,NA,NA,NA
+508,2019,6,"HS17","070960",1,3,0,0,NA,NA,NA,NA,NA
+509,2019,6,"HS17","070970",1,1,0,0,NA,NA,NA,NA,NA
+510,2019,6,"HS17","070991",1,1,0,0,NA,NA,NA,NA,NA
+511,2019,6,"HS17","070992",1,1,0,0,NA,NA,NA,NA,NA
+512,2019,6,"HS17","070993",1,2,1,0,NA,NA,NA,NA,NA
+513,2019,6,"HS17","070999",1,4,3,0,NA,NA,NA,NA,NA
+514,2019,4,"HS17","0710",8,15,9,0,NA,NA,NA,NA,NA
+515,2019,6,"HS17","071010",1,1,0,0,NA,NA,NA,NA,NA
+516,2019,6,"HS17","071021",1,1,0,0,NA,NA,NA,NA,NA
+517,2019,6,"HS17","071022",1,1,0,0,NA,NA,NA,NA,NA
+518,2019,6,"HS17","071029",1,2,2,0,NA,NA,NA,NA,NA
+519,2019,6,"HS17","071030",1,1,1,0,NA,NA,NA,NA,NA
+520,2019,6,"HS17","071040",1,1,0,0,NA,NA,NA,NA,NA
+521,2019,6,"HS17","071080",1,7,6,0,NA,NA,NA,NA,NA
+522,2019,6,"HS17","071090",1,1,0,0,NA,NA,NA,NA,NA
+523,2019,4,"HS17","0711",5,11,7,2.85714285714286,NA,NA,NA,NA,NA
+524,2019,6,"HS17","071120",1,1,0,0,NA,NA,NA,NA,NA
+525,2019,6,"HS17","071140",1,1,0,0,NA,NA,NA,NA,NA
+526,2019,6,"HS17","071151",1,1,1,0,NA,NA,NA,NA,NA
+527,2019,6,"HS17","071159",1,1,1,0,NA,NA,NA,NA,NA
+528,2019,6,"HS17","071190",1,7,5,14.2857142857143,NA,NA,NA,NA,NA
+529,2019,4,"HS17","0712",6,12,12,23.8095238095238,NA,NA,NA,NA,NA
+530,2019,6,"HS17","071220",1,1,1,0,NA,NA,NA,NA,NA
+531,2019,6,"HS17","071231",1,1,1,0,NA,NA,NA,NA,NA
+532,2019,6,"HS17","071232",1,1,1,0,NA,NA,NA,NA,NA
+533,2019,6,"HS17","071233",1,1,1,0,NA,NA,NA,NA,NA
+534,2019,6,"HS17","071239",1,1,1,100,NA,NA,NA,NA,NA
+535,2019,6,"HS17","071290",1,7,7,42.8571428571429,NA,NA,NA,NA,NA
+536,2019,4,"HS17","0713",12,12,11,91.6666666666667,NA,NA,NA,NA,NA
+537,2019,6,"HS17","071310",1,1,1,100,NA,NA,NA,NA,NA
+538,2019,6,"HS17","071320",1,1,0,0,NA,NA,NA,NA,NA
+539,2019,6,"HS17","071331",1,1,1,100,NA,NA,NA,NA,NA
+540,2019,6,"HS17","071332",1,1,1,100,NA,NA,NA,NA,NA
+541,2019,6,"HS17","071333",1,1,1,100,NA,NA,NA,NA,NA
+542,2019,6,"HS17","071334",1,1,1,100,NA,NA,NA,NA,NA
+543,2019,6,"HS17","071335",1,1,1,100,NA,NA,NA,NA,NA
+544,2019,6,"HS17","071339",1,1,1,100,NA,NA,NA,NA,NA
+545,2019,6,"HS17","071340",1,1,1,100,NA,NA,NA,NA,NA
+546,2019,6,"HS17","071350",1,1,1,100,NA,NA,NA,NA,NA
+547,2019,6,"HS17","071360",1,1,1,100,NA,NA,NA,NA,NA
+548,2019,6,"HS17","071390",1,1,1,100,NA,NA,NA,NA,NA
+549,2019,4,"HS17","0714",6,6,5,16.6666666666667,NA,NA,NA,NA,NA
+550,2019,6,"HS17","071410",1,1,1,100,NA,NA,NA,NA,NA
+551,2019,6,"HS17","071420",1,1,0,0,NA,NA,NA,NA,NA
+552,2019,6,"HS17","071430",1,1,1,0,NA,NA,NA,NA,NA
+553,2019,6,"HS17","071440",1,1,1,0,NA,NA,NA,NA,NA
+554,2019,6,"HS17","071450",1,1,1,0,NA,NA,NA,NA,NA
+555,2019,6,"HS17","071490",1,1,1,0,NA,NA,NA,NA,NA
+556,2019,2,"HS17","08",68,115,53,8.82352941176471,NA,NA,NA,NA,NA
+557,2019,4,"HS17","0801",7,7,7,42.8571428571429,NA,NA,NA,NA,NA
+558,2019,6,"HS17","080111",1,1,1,100,NA,NA,NA,NA,NA
+559,2019,6,"HS17","080112",1,1,1,100,NA,NA,NA,NA,NA
+560,2019,6,"HS17","080119",1,1,1,100,NA,NA,NA,NA,NA
+561,2019,6,"HS17","080121",1,1,1,0,NA,NA,NA,NA,NA
+562,2019,6,"HS17","080122",1,1,1,0,NA,NA,NA,NA,NA
+563,2019,6,"HS17","080131",1,1,1,0,NA,NA,NA,NA,NA
+564,2019,6,"HS17","080132",1,1,1,0,NA,NA,NA,NA,NA
+565,2019,4,"HS17","0802",15,20,15,10,NA,NA,NA,NA,NA
+566,2019,6,"HS17","080211",1,2,1,50,NA,NA,NA,NA,NA
+567,2019,6,"HS17","080212",1,2,1,50,NA,NA,NA,NA,NA
+568,2019,6,"HS17","080221",1,1,1,0,NA,NA,NA,NA,NA
+569,2019,6,"HS17","080222",1,2,2,50,NA,NA,NA,NA,NA
+570,2019,6,"HS17","080231",1,1,1,0,NA,NA,NA,NA,NA
+571,2019,6,"HS17","080232",1,1,1,0,NA,NA,NA,NA,NA
+572,2019,6,"HS17","080241",1,1,1,0,NA,NA,NA,NA,NA
+573,2019,6,"HS17","080242",1,1,1,0,NA,NA,NA,NA,NA
+574,2019,6,"HS17","080251",1,1,0,0,NA,NA,NA,NA,NA
+575,2019,6,"HS17","080252",1,1,0,0,NA,NA,NA,NA,NA
+576,2019,6,"HS17","080261",1,1,1,0,NA,NA,NA,NA,NA
+577,2019,6,"HS17","080262",1,1,1,0,NA,NA,NA,NA,NA
+578,2019,6,"HS17","080270",1,1,1,0,NA,NA,NA,NA,NA
+579,2019,6,"HS17","080280",1,1,1,0,NA,NA,NA,NA,NA
+580,2019,6,"HS17","080290",1,3,2,0,NA,NA,NA,NA,NA
+581,2019,4,"HS17","0803",2,4,2,0,NA,NA,NA,NA,NA
+582,2019,6,"HS17","080310",1,2,1,0,NA,NA,NA,NA,NA
+583,2019,6,"HS17","080390",1,2,1,0,NA,NA,NA,NA,NA
+584,2019,4,"HS17","0804",5,12,4,0,NA,NA,NA,NA,NA
+585,2019,6,"HS17","080410",1,2,0,0,NA,NA,NA,NA,NA
+586,2019,6,"HS17","080420",1,3,1,0,NA,NA,NA,NA,NA
+587,2019,6,"HS17","080430",1,2,1,0,NA,NA,NA,NA,NA
+588,2019,6,"HS17","080440",1,2,1,0,NA,NA,NA,NA,NA
+589,2019,6,"HS17","080450",1,3,1,0,NA,NA,NA,NA,NA
+590,2019,4,"HS17","0805",7,16,9,0,NA,NA,NA,NA,NA
+591,2019,6,"HS17","080510",1,2,1,0,NA,NA,NA,NA,NA
+592,2019,6,"HS17","080521",1,2,1,0,NA,NA,NA,NA,NA
+593,2019,6,"HS17","080522",1,2,1,0,NA,NA,NA,NA,NA
+594,2019,6,"HS17","080529",1,2,1,0,NA,NA,NA,NA,NA
+595,2019,6,"HS17","080540",1,3,2,0,NA,NA,NA,NA,NA
+596,2019,6,"HS17","080550",1,2,1,0,NA,NA,NA,NA,NA
+597,2019,6,"HS17","080590",1,3,2,0,NA,NA,NA,NA,NA
+598,2019,4,"HS17","0806",2,4,0,0,NA,NA,NA,NA,NA
+599,2019,6,"HS17","080610",1,2,0,0,NA,NA,NA,NA,NA
+600,2019,6,"HS17","080620",1,2,0,0,NA,NA,NA,NA,NA
+601,2019,4,"HS17","0807",3,4,0,0,NA,NA,NA,NA,NA
+602,2019,6,"HS17","080711",1,1,0,0,NA,NA,NA,NA,NA
+603,2019,6,"HS17","080719",1,2,0,0,NA,NA,NA,NA,NA
+604,2019,6,"HS17","080720",1,1,0,0,NA,NA,NA,NA,NA
+605,2019,4,"HS17","0808",3,3,0,0,NA,NA,NA,NA,NA
+606,2019,6,"HS17","080810",1,1,0,0,NA,NA,NA,NA,NA
+607,2019,6,"HS17","080830",1,1,0,0,NA,NA,NA,NA,NA
+608,2019,6,"HS17","080840",1,1,0,0,NA,NA,NA,NA,NA
+609,2019,4,"HS17","0809",5,10,0,0,NA,NA,NA,NA,NA
+610,2019,6,"HS17","080910",1,2,0,0,NA,NA,NA,NA,NA
+611,2019,6,"HS17","080921",1,2,0,0,NA,NA,NA,NA,NA
+612,2019,6,"HS17","080929",1,2,0,0,NA,NA,NA,NA,NA
+613,2019,6,"HS17","080930",1,2,0,0,NA,NA,NA,NA,NA
+614,2019,6,"HS17","080940",1,2,0,0,NA,NA,NA,NA,NA
+615,2019,4,"HS17","0810",8,17,5,0,NA,NA,NA,NA,NA
+616,2019,6,"HS17","081010",1,2,0,0,NA,NA,NA,NA,NA
+617,2019,6,"HS17","081020",1,1,1,0,NA,NA,NA,NA,NA
+618,2019,6,"HS17","081030",1,1,1,0,NA,NA,NA,NA,NA
+619,2019,6,"HS17","081040",1,1,1,0,NA,NA,NA,NA,NA
+620,2019,6,"HS17","081050",1,2,0,0,NA,NA,NA,NA,NA
+621,2019,6,"HS17","081060",1,1,1,0,NA,NA,NA,NA,NA
+622,2019,6,"HS17","081070",1,2,0,0,NA,NA,NA,NA,NA
+623,2019,6,"HS17","081090",1,7,1,0,NA,NA,NA,NA,NA
+624,2019,4,"HS17","0811",3,6,4,16.6666666666667,NA,NA,NA,NA,NA
+625,2019,6,"HS17","081110",1,2,0,0,NA,NA,NA,NA,NA
+626,2019,6,"HS17","081120",1,2,2,50,NA,NA,NA,NA,NA
+627,2019,6,"HS17","081190",1,2,2,0,NA,NA,NA,NA,NA
+628,2019,4,"HS17","0812",2,3,3,0,NA,NA,NA,NA,NA
+629,2019,6,"HS17","081210",1,1,1,0,NA,NA,NA,NA,NA
+630,2019,6,"HS17","081290",1,2,2,0,NA,NA,NA,NA,NA
+631,2019,4,"HS17","0813",5,8,3,0,NA,NA,NA,NA,NA
+632,2019,6,"HS17","081310",1,1,1,0,NA,NA,NA,NA,NA
+633,2019,6,"HS17","081320",1,2,0,0,NA,NA,NA,NA,NA
+634,2019,6,"HS17","081330",1,1,1,0,NA,NA,NA,NA,NA
+635,2019,6,"HS17","081340",1,1,1,0,NA,NA,NA,NA,NA
+636,2019,6,"HS17","081350",1,3,0,0,NA,NA,NA,NA,NA
+637,2019,4,"HS17","0814",1,1,1,100,NA,NA,NA,NA,NA
+638,2019,6,"HS17","081400",1,1,1,100,NA,NA,NA,NA,NA
+639,2019,2,"HS17","17",17,20,20,91.1764705882353,NA,NA,NA,NA,NA
+640,2019,4,"HS17","1701",5,6,6,100,NA,NA,NA,NA,NA
+641,2019,6,"HS17","170112",1,1,1,100,NA,NA,NA,NA,NA
+642,2019,6,"HS17","170113",1,1,1,100,NA,NA,NA,NA,NA
+643,2019,6,"HS17","170114",1,1,1,100,NA,NA,NA,NA,NA
+644,2019,6,"HS17","170191",1,1,1,100,NA,NA,NA,NA,NA
+645,2019,6,"HS17","170199",1,2,2,100,NA,NA,NA,NA,NA
+646,2019,4,"HS17","1702",8,8,8,100,NA,NA,NA,NA,NA
+647,2019,6,"HS17","170211",1,1,1,100,NA,NA,NA,NA,NA
+648,2019,6,"HS17","170219",1,1,1,100,NA,NA,NA,NA,NA
+649,2019,6,"HS17","170220",1,1,1,100,NA,NA,NA,NA,NA
+650,2019,6,"HS17","170230",1,1,1,100,NA,NA,NA,NA,NA
+651,2019,6,"HS17","170240",1,1,1,100,NA,NA,NA,NA,NA
+652,2019,6,"HS17","170250",1,1,1,100,NA,NA,NA,NA,NA
+653,2019,6,"HS17","170260",1,1,1,100,NA,NA,NA,NA,NA
+654,2019,6,"HS17","170290",1,1,1,100,NA,NA,NA,NA,NA
+655,2019,4,"HS17","1703",2,2,2,100,NA,NA,NA,NA,NA
+656,2019,6,"HS17","170310",1,1,1,100,NA,NA,NA,NA,NA
+657,2019,6,"HS17","170390",1,1,1,100,NA,NA,NA,NA,NA
+658,2019,4,"HS17","1704",2,4,4,25,NA,NA,NA,NA,NA
+659,2019,6,"HS17","170410",1,2,2,0,NA,NA,NA,NA,NA
+660,2019,6,"HS17","170490",1,2,2,50,NA,NA,NA,NA,NA
+661,2019,2,"HS17","18",11,14,14,97.7272727272727,NA,NA,NA,NA,NA
+662,2019,4,"HS17","1801",1,1,1,100,NA,NA,NA,NA,NA
+663,2019,6,"HS17","180100",1,1,1,100,NA,NA,NA,NA,NA
+664,2019,4,"HS17","1802",1,1,1,100,NA,NA,NA,NA,NA
+665,2019,6,"HS17","180200",1,1,1,100,NA,NA,NA,NA,NA
+666,2019,4,"HS17","1803",2,2,2,100,NA,NA,NA,NA,NA
+667,2019,6,"HS17","180310",1,1,1,100,NA,NA,NA,NA,NA
+668,2019,6,"HS17","180320",1,1,1,100,NA,NA,NA,NA,NA
+669,2019,4,"HS17","1804",1,1,1,100,NA,NA,NA,NA,NA
+670,2019,6,"HS17","180400",1,1,1,100,NA,NA,NA,NA,NA
+671,2019,4,"HS17","1805",1,1,1,100,NA,NA,NA,NA,NA
+672,2019,6,"HS17","180500",1,1,1,100,NA,NA,NA,NA,NA
+673,2019,4,"HS17","1806",5,8,8,95,NA,NA,NA,NA,NA
+674,2019,6,"HS17","180610",1,1,1,100,NA,NA,NA,NA,NA
+675,2019,6,"HS17","180620",1,1,1,100,NA,NA,NA,NA,NA
+676,2019,6,"HS17","180631",1,1,1,100,NA,NA,NA,NA,NA
+677,2019,6,"HS17","180632",1,1,1,100,NA,NA,NA,NA,NA
+678,2019,6,"HS17","180690",1,4,4,75,NA,NA,NA,NA,NA
